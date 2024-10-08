@@ -1,0 +1,124 @@
+Based on the provided Consumer Confidence Report for the Westside Harvesting water system, the following summary outlines the water sources utilized by the system:
+
+### Water Source Summary
+
+1. **Source Type**: Surface Water
+   - **Where it Comes From**: California Aqueduct via Westlands Water District
+   - **Fraction of Total Annual Water Supply**: The report does not specify the exact fraction of the total annual water supply that this source represents, but it indicates that surface water is the type of water source in use.
+
+### Relevant Notes:
+- The source is considered most vulnerable to agricultural drainage and low-density septic systems.
+- The water system relies solely on surface water from the California Aqueduct, which is managed by the Westlands Water District.
+
+No additional water sources (such as groundwater or recycled water) are mentioned in the report, and the specific contribution of the surface water to the total supply is not quantified.
+
+
+Based on the provided Consumer Confidence Report (CCR) for the City of Whittier's drinking water system, here is a summary of the water sources utilized by the water system:
+
+### Water Sources Summary
+
+1. **Source Type:** Groundwater  
+   **Where It Comes From:** The City of Whittier pumps water from six (6) active deep wells located in the Whittier Narrows area. These wells draw water from the Main San Gabriel groundwater basin and the Central groundwater basin.  
+   **Fraction of Total Annual Water Supply:** 100%  
+   **Notes:** All of the source water for the City of Whittier is sourced from groundwater, with no surface water or recycled water mentioned in the report. The water is treated before being delivered to the city's eleven reservoirs for distribution.
+
+This summary indicates that the City of Whittier relies entirely on groundwater from specific basins, highlighting the importance of these sources for the local water supply.
+
+
+Based on the provided Consumer Confidence Report for the City of Santa Monica, here is a summary of the water sources utilized by the water system, including the requested details:
+
+### 1. Local Groundwater
+- **Source Type**: Groundwater
+- **Where It Comes From**: The City extracts water from three sub-basins within the Santa Monica Basin: Charnock, Olympic, and Arcadia Sub-basins. The Charnock Sub-basin has been a local supply since 1924.
+- **Fraction of Total Annual Water Supply**: 75%
+- **Notes**: The local groundwater is sourced from various wells, including those affected by historical contamination (MTBE and TBA). The City has implemented treatment processes to ensure the safety and quality of this groundwater.
+
+### 2. Imported Water from Metropolitan Water District (MWD)
+- **Source Type**: Surface Water
+- **Where It Comes From**: The City purchases treated water from MWD, which sources water from two main areas: the Colorado River (delivered through a 242-mile aqueduct from Lake Havasu) and the State Water Project (delivered through the 441-mile California Aqueduct from the Sacramento-San Joaquin Delta).
+- **Fraction of Total Annual Water Supply**: 25%
+- **Notes**: The imported water is treated at MWD's treatment plants before being blended with locally produced water and distributed to residents.
+
+### Summary
+- **Local Groundwater**: 75% of total supply, sourced from Charnock, Olympic, and Arcadia Sub-basins.
+- **Imported Water (MWD)**: 25% of total supply, sourced from the Colorado River and State Water Project.
+
+This summary reflects the reliance of the Santa Monica water system on both local and imported water sources to meet the community's drinking water needs.
+
+
+Based on the provided Consumer Confidence Report (CCR) for the East Los Angeles District City of Commerce Water System, the water sources utilized by the system are summarized as follows:
+
+### Water Sources Summary
+
+1. **Source Type**: Groundwater
+   - **Where It Comes From**: The groundwater is sourced from two active wells operated by the City of Commerce.
+   - **Fraction of Total Annual Water Supply**: The exact fraction of the total annual water supply represented by groundwater is not explicitly stated in the report.
+
+2. **Source Type**: Purchased Water
+   - **Where It Comes From**: This water is purchased from the Metropolitan Water District of Southern California (MWD), which obtains its water from the Colorado River and the State Water Project in northern California.
+   - **Fraction of Total Annual Water Supply**: The exact fraction of the total annual water supply represented by purchased water is not explicitly stated in the report.
+
+### Relevant Notes
+- The report indicates that the City of Commerce water system includes infrastructure such as two active wells, 12 booster pumps, five storage tanks, and one MWD connection.
+- The water system is committed to maintaining high-quality standards and conducts extensive testing to ensure compliance with health regulations.
+- The source assessment and protection program identifies vulnerabilities in the water sources, including potential contamination from various local activities.
+
+Unfortunately, the report does not specify the exact contributions of each water source as a fraction of the total annual water supply.
+
+
+### Summary of Water Sources for Littlerock Creek Irrigation District
+
+1. **Groundwater**
+   - **Source Type:** Groundwater
+   - **Location:** Antelope Valley Ground Water Basin, Littlerock, CA
+   - **Annual Water Supply Contribution:** Not specified in the report.
+   - **Notes:** The report does not provide specific details on the quantity of groundwater used or its fraction of the total annual water supply.
+
+2. **Imported SWP Water**
+   - **Source Type:** Surface Water
+   - **Location:** Imported from the State Water Project (SWP), specific sourcing details not provided.
+   - **Annual Water Supply Contribution:** Not specified in the report.
+   - **Notes:** The report does not provide specific details on the quantity of imported SWP water used or its fraction of the total annual water supply.
+
+### Additional Notes:
+- The report indicates the water system utilizes both groundwater and imported surface water, but it does not specify the exact contributions of each source as a fraction of the total water supply. Further information would be needed to quantify these contributions accurately.
+
+
+Based on the Consumer Confidence Report for the City of Lakewood, the water system relies on the following water sources:
+
+### Water Source Summary
+
+1. **Source Type:** Groundwater
+   - **Where It Comes From:** Local deep groundwater wells within the service area of the City of Lakewood.
+   - **Fraction of Total Annual Water Supply:** 100%
+   - **Notes:** The City of Lakewood operates 11 deep wells that supply all the drinking water for the area. There are no other sources mentioned, indicating that the entire water supply is derived from groundwater.
+
+2. **Source Type:** Recycled Water
+   - **Where It Comes From:** Not explicitly stated in the report, but it is used for irrigation at various sites.
+   - **Fraction of Total Annual Water Supply:** Approximately 6%
+   - **Notes:** The report mentions that about 6% of the total water supply is recycled water, which is utilized for irrigation at 42 sites. However, specific details about the source of the recycled water (e.g., treatment facilities or suppliers) are not provided in the report.
+
+### Additional Notes
+- The City of Lakewood also has a standby connection to the Metropolitan Water District of Southern California's imported supplies for emergency use, but this is not a primary source of water.
+- The report emphasizes the commitment to providing safe and high-quality drinking water and mentions that all water delivered met or exceeded federal and state standards in 2023. 
+
+This summary captures the key information regarding the water sources utilized by the City of Lakewood's water system as described in the CCR.
+
+
+Based on the provided Consumer Confidence Report for the San Marino Water System, here is a summary of the water sources utilized by the system:
+
+### Water Sources Summary
+
+1. **Groundwater**
+   - **Source Type**: Groundwater
+   - **Origin**: The groundwater is sourced from the Main San Gabriel and Raymond Basins.
+   - **Fraction of Total Annual Water Supply**: 90%
+   - **Notes**: The groundwater sources are primarily used to meet the water needs of the San Marino Water System.
+
+2. **Surface Water**
+   - **Source Type**: Surface Water
+   - **Origin**: This water is purchased from the Metropolitan Water District of Southern California (MWDSC) via the Weymouth Treatment Plant. MWDSC sources its raw surface water from the Sacramento River Delta and Colorado River.
+   - **Fraction of Total Annual Water Supply**: 10%
+   - **Notes**: The surface water is treated before being distributed and is a smaller component of the overall water supply compared to groundwater.
+
+This summary provides a clear overview of the sources of water for the San Marino Water System, indicating a strong reliance on groundwater with a supplementary contribution from surface water.

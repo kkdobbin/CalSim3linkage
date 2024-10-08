@@ -1,0 +1,12 @@
+**Public Water System ID (PWSID):** Not provided in the report  
+**Year of the Report:** 2023  
+
+### Water Source Information
+
+1. **Source Type:** Surface Water  
+   **Source Name and Location:** California Aqueduct via Westlands Water District  
+   **Annual Water Supply Fraction:** 1 (100% of the system's total annual water supply)  
+   **Notes:** The source is considered most vulnerable to agricultural drainage and low-density septic systems. The water is sourced from the California Aqueduct, which is a significant water conveyance system in California.  
+
+### Summary
+- The water system relies entirely on surface water sourced from the California Aqueduct through the Westlands Water District, representing 100% of its annual water supply.

@@ -1,0 +1,225 @@
+**GLENDALE-CITY, WATER DEPT. (CA1910043)**  
+**CCR report year: 2022**  
+
+The Glendale Water and Power system relies on three primary sources of water: imported water, local groundwater, and recycled water.  
+
+**Source Type**: Surface Water  
+**Where It Comes From**: Purchased from the Metropolitan Water District, which sources it from Northern California and the Colorado River.  
+**Fraction of Total Annual Water Supply**: 65%  
+**Notes**: This source represents the majority of the water supply for Glendale, amounting to approximately 4.55 billion gallons in 2022.  
+
+**Source Type**: Groundwater  
+**Where It Comes From**: Local groundwater extracted from the Verdugo and San Fernando Basins.  
+**Fraction of Total Annual Water Supply**: 35%  
+**Notes**: This source accounts for about 2.45 billion gallons of the total water supply.  
+
+**Source Type**: Recycled Water  
+**Where It Comes From**: Produced by the Los Angeles-Glendale Water Reclamation Plant.  
+**Fraction of Total Annual Water Supply**: Approximately 6% (1,584 acre-feet, which is about 0.52 billion gallons).  
+**Notes**: The recycled water is used exclusively for irrigation and industrial processes and is not suitable for human consumption.  
+
+Overall, Glendale Water and Power delivered a total of 7 billion gallons of potable water to customers in 2022.
+
+
+# Vista Grande Water Users Association (CA4300550)
+## CCR report year: 2022
+
+The water system relies on one primary source of water: Mountain Surface Water purchased from San Jose Water Company.
+
+**Source Type**: Surface Water  
+**Where It Comes From**: Montevina Water Treatment Plant, sourced from San Jose Water Company (SJWC).  
+**Fraction of Total Annual Water Supply**: 100%  
+**Notes**: All water for Vista Grande is purchased from SJWC, and the 2022 Consumer Confidence Report for SJWC is attached for reference regarding water quality results. The source is noted to be vulnerable to low density septic systems and potential contamination from commercial stables and historic mining practices.
+
+
+**San Antonio Water Company (CA3610085)**  
+**CCR report year: 2023**  
+
+The San Antonio Water Company relies on three deep wells and a deep rock tunnel for its water supply.
+
+**Source 1**  
+**Source Type**: Groundwater  
+**Where It Comes From**: The water is sourced from three deep wells located in the Cucamonga and Chino groundwater basins.  
+**Fraction of Total Annual Water Supply**: Not specified in the report.  
+**Notes**: The wells are tested for various contaminants, and the results indicate that the water is treated with sodium hypochlorite to protect against microbial contaminants.
+
+**Source 2**  
+**Source Type**: Groundwater  
+**Where It Comes From**: A deep rock tunnel located in the lower San Antonio Canyon.  
+**Fraction of Total Annual Water Supply**: Not specified in the report.  
+**Notes**: The tunnel water is also tested for Cryptosporidium and Giardia lamblia, with results returning as non-detectable.
+
+Overall, the report does not provide specific fractions of total annual water supply for each source, but it emphasizes the reliance on groundwater from wells and a tunnel system for the water supply.
+
+
+**Santa Monica-City, Water Division (CA1910146)**  
+**CCR report year: 2023**  
+
+The Santa Monica-City Water Division relies on two primary sources of water: local groundwater and imported surface water.
+
+**Source 1: Local Groundwater**  
+**Source Type**: Groundwater  
+**Where It Comes From**: Extracted from local groundwater wells within the City and in West Los Angeles, specifically from three sub-basins within the Santa Monica Basin (Charnock, Olympic, and Arcadia Sub-basins).  
+**Fraction of Total Annual Water Supply**: 75%  
+**Notes**: The Charnock Sub-basin has been a local supply since 1924. The water is treated at the Arcadia Water Treatment Plant, which includes processes such as iron/manganese removal, filtration, reverse osmosis, and disinfection.
+
+**Source 2: Imported Surface Water**  
+**Source Type**: Surface Water  
+**Where It Comes From**: Purchased from the Metropolitan Water District (MWD), which sources water from the Colorado River and the State Water Project.  
+**Fraction of Total Annual Water Supply**: 25%  
+**Notes**: MWD water is treated at their treatment plants (Weymouth and Jensen Plants) before being blended with locally produced water and distributed to residents. The Colorado River water is delivered through a 242-mile-long aqueduct, while the State Water Project water is delivered through the 441-mile-long California Aqueduct.
+
+This summary highlights the reliance of the Santa Monica-City Water Division on both local groundwater and imported surface water to meet the drinking water needs of the community.
+
+
+**Lakewood - City, Water Dept. (CA1910239)**  
+**CCR report year: 2023**  
+
+The water system relies on local deep groundwater wells for its water supply.
+
+**Source Type**: Groundwater  
+**Where It Comes From**: Local deep groundwater wells  
+**Fraction of Total Annual Water Supply**: 100%  
+**Notes**: The City of Lakewood operates 11 deep wells to supply water to its service area, which includes residents and businesses west of the San Gabriel River. The water system is responsible for providing water services, while Golden State Water Company serves the area east of the river. Additionally, there is a standby connection to the Metropolitan Water District of Southern California’s imported supplies for emergency use, but this is not a primary source. Approximately 6% of the water supply is recycled and used for irrigation at 42 sites.  
+
+Reporting Year 2023
+
+
+Littlerock Creek Irrigation District (CA1910064)  
+CCR report year: 2023  
+
+The water system relies on two sources of water: groundwater and imported surface water.
+
+**Source Type**: Groundwater  
+**Where It Comes From**: Antelope Valley Ground Water Basin, Littlerock, CA  
+**Fraction of Total Annual Water Supply**: Not specified in the report.  
+**Notes**: This source is a natural aquifer that provides groundwater for the system.
+
+**Source Type**: Surface Water  
+**Where It Comes From**: Imported State Water Project (SWP) water  
+**Fraction of Total Annual Water Supply**: Not specified in the report.  
+**Notes**: The report does not provide specific details on the infrastructure used to transport or treat the imported water.
+
+
+**WESTSIDE HARVESTING (CA1009214)**  
+**CCR report year: 2023**  
+
+The water system relies on a single source of water, which is surface water from the California Aqueduct via Westlands Water District.
+
+**Source Type**: Surface Water  
+**Where It Comes From**: California Aqueduct via Westlands Water District  
+**Fraction of Total Annual Water Supply**: 1 (100% of total supply)  
+**Notes**: The source is considered most vulnerable to agricultural drainage and low-density septic systems. The water system does not utilize any other sources of water.
+
+
+**DEER LODGE WATER SYSTEM (CA3600087)**  
+**CCR report year: 2023**  
+
+The Deer Lodge Water System relies on groundwater and purchased water from the Crestline-Lake Arrowhead Water Agency (CLAWA) for its water supply.
+
+**Source 1**  
+**Source Type**: Groundwater  
+**Where It Comes From**: Local groundwater wells  
+**Fraction of Total Annual Water Supply**: Not specified in the report  
+**Notes**: Chlorine is added to the groundwater for disinfection.
+
+**Source 2**  
+**Source Type**: Surface Water  
+**Where It Comes From**: Water is purchased from the Crestline-Lake Arrowhead Water Agency, which treats water from Silverwood Lake and delivers it to the Deer Lodge Water System.  
+**Fraction of Total Annual Water Supply**: Not specified in the report  
+**Notes**: The water from CLAWA is blended with local groundwater. A connection to the Lake Arrowhead Water System was installed in 2020 for emergency use, providing additional water supply for fire protection and other emergencies.
+
+**Source 3**  
+**Source Type**: Surface Water (Emergency Supply)  
+**Where It Comes From**: Lake Arrowhead Water System (via a connection for emergency use)  
+**Fraction of Total Annual Water Supply**: Not specified in the report  
+**Notes**: This connection allows for the introduction of water from the Lake Arrowhead Water System into the Deer Lodge Water System during emergencies, triggered by significant pressure drops. 
+
+Overall, the report emphasizes the commitment to ensuring safe drinking water and the ongoing efforts to manage and improve water quality.
+
+
+**Whittier-City, Water Dept. (CA1910173)**  
+**CCR report year: 2023**
+
+The water system relies on groundwater sources for its total annual water supply.
+
+**Source Type**: Groundwater  
+**Where It Comes From**: The City of Whittier pumps water from six active deep wells located in the Whittier Narrows area, which draw water from the Main San Gabriel groundwater basin and the Central groundwater basin.  
+**Fraction of Total Annual Water Supply**: 100%  
+**Notes**: The water is treated and delivered to the City of Whittier’s eleven reservoirs for distribution. The report emphasizes the importance of water conservation in Southern California.
+
+
+**Commerce-City, Water Dept. (CA1910050)**  
+**CCR report year: 2023**  
+
+The water system relies on a combination of local groundwater and purchased water from the Metropolitan Water District of Southern California (MWD).
+
+**Source 1**  
+**Source Type**: Groundwater  
+**Where It Comes From**: Local groundwater sourced from two active wells.  
+**Fraction of Total Annual Water Supply**: Not specified in the report.  
+**Notes**: The groundwater is part of the system's water supply and is treated to meet water quality standards.
+
+**Source 2**  
+**Source Type**: Purchased Water  
+**Where It Comes From**: Purchased from the Metropolitan Water District of Southern California (MWD), which obtains water from the Colorado River and the State Water Project in northern California.  
+**Fraction of Total Annual Water Supply**: Not specified in the report.  
+**Notes**: The water is delivered via a connection to the MWD and is blended with local groundwater.
+
+The report does not provide specific fractions of total annual water supply for each source, nor does it detail the exact infrastructure used for the surface water sourced from MWD.
+
+
+**SCWA MATHER-SUNRISE (CA3410704)**  
+**CCR report year: 2022**  
+
+The SCWA MATHER-SUNRISE water system relies on two primary sources of water: surface water and groundwater.
+
+**Source 1: Surface Water**  
+**Source Type**: Surface Water  
+**Where It Comes From**: The surface water is sourced from the Vineyard Surface Water Treatment Plant (VSWTP).  
+**Fraction of Total Annual Water Supply**: 35%  
+**Notes**: The surface water is treated at the VSWTP before distribution to customers.  
+
+**Source 2: Groundwater**  
+**Source Type**: Groundwater  
+**Where It Comes From**: The groundwater is sourced from seven groundwater wells and two water treatment plants (WTPs).  
+**Fraction of Total Annual Water Supply**: 65%  
+**Notes**: The groundwater is blended with surface water to meet the water supply needs of the system.  
+
+This summary reflects the water sources utilized by the SCWA MATHER-SUNRISE system in 2022, highlighting the contributions of both surface water and groundwater to the overall water supply.
+
+
+**City of Colton (CA3610014)**  
+**CCR report year: 2022**  
+
+The City of Colton's water system relies on groundwater sources and a supplemental supply from the City of San Bernardino.
+
+**Source Type**: Groundwater  
+**Where It Comes From**: The City of Colton operates nine wells that draw water from three underlying groundwater basins: Colton/Rialto Basin, Bunker Hill Basin, and North Riverside Basin.  
+**Fraction of Total Annual Water Supply**: Not specified in the report.  
+**Notes**: The groundwater wells are the primary source of drinking water for the City of Colton.
+
+**Source Type**: Groundwater (purchased supply)  
+**Where It Comes From**: The City of San Bernardino provides treated groundwater from the Bunker Hill Basin as a supplemental source.  
+**Fraction of Total Annual Water Supply**: Not specified in the report.  
+**Notes**: This source is utilized as needed to supplement the City of Colton's water supply.
+
+The report does not provide specific fractions of total annual water supply for each source, nor does it detail the exact contribution of the City of San Bernardino's supply.
+
+
+**CAL/AM WATER COMPANY - SAN MARINO (CA1910139)**  
+**CCR report year: 2023**  
+
+The water system relies on two primary sources of water: groundwater and surface water.
+
+**Source 1: Groundwater**  
+**Source Type**: Groundwater  
+**Where It Comes From**: The groundwater is sourced from the Main San Gabriel and Raymond Basins.  
+**Fraction of Total Annual Water Supply**: 90%  
+**Notes**: Groundwater supplies are disinfected with chlorine for bacteriological control and quality in the distribution system.
+
+**Source 2: Surface Water**  
+**Source Type**: Surface Water  
+**Where It Comes From**: The surface water is purchased from the Metropolitan Water District of Southern California (MWDSC) via the Weymouth Treatment Plant. MWDSC's sources of raw surface water include the Sacramento River Delta and Colorado River.  
+**Fraction of Total Annual Water Supply**: 10%  
+**Notes**: Surface water is disinfected with chloramines.

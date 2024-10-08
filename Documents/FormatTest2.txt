@@ -1,0 +1,18 @@
+**Santa Monica-City, Water Division (CA1910146)**  
+**CCR report year: 2023**
+
+The Santa Monica-City Water Division relies on two primary sources of water: local groundwater and imported surface water.
+
+**Source 1: Local Groundwater**  
+**Source Type**: Groundwater  
+**Where It Comes From**: Extracted from local groundwater wells within the City and in West Los Angeles, specifically from three sub-basins within the Santa Monica Basin (Charnock, Olympic, and Arcadia Sub-basins).  
+**Fraction of Total Annual Water Supply**: 75%  
+**Notes**: The Charnock Sub-basin has been a local supply since 1924. The water is treated at the Arcadia Water Treatment Plant, which includes processes such as iron/manganese removal, filtration, reverse osmosis, and disinfection.
+
+**Source 2: Imported Surface Water**  
+**Source Type**: Surface Water  
+**Where It Comes From**: Purchased from the Metropolitan Water District (MWD), which sources water from the Colorado River and the State Water Project (California Aqueduct).  
+**Fraction of Total Annual Water Supply**: 25%  
+**Notes**: The MWD water is treated at their treatment plants (Weymouth and Jensen Plants) before being blended with locally produced water and distributed to residents.
+
+In summary, the Santa Monica-City Water Division primarily relies on local groundwater for 75% of its water supply, supplemented by 25% imported surface water from the Metropolitan Water District. The local groundwater is sourced from three sub-basins and treated at the Arcadia Water Treatment Plant, while the imported water undergoes treatment at MWD facilities before distribution.

@@ -1,0 +1,145 @@
+Based on the provided Consumer Confidence Report (CCR) for Glendale Water & Power, here is a summary of the water sources utilized by the water system:
+
+### 1. Imported Water
+- **Source Type:** Surface Water
+- **Where It Comes From:** Purchased from the Metropolitan Water District (MWD), which sources water from Northern California and the Colorado River.
+- **Fraction of Total Annual Water Supply:** 65% (approximately 4.55 billion gallons out of 7 billion gallons).
+
+### 2. Groundwater
+- **Source Type:** Groundwater
+- **Where It Comes From:** Extracted from local groundwater sources in the Verdugo and San Fernando Basins.
+- **Fraction of Total Annual Water Supply:** 35% (approximately 2.45 billion gallons out of 7 billion gallons).
+
+### 3. Recycled Water
+- **Source Type:** Recycled Water
+- **Where It Comes From:** Produced by the Los Angeles-Glendale Water Reclamation Plant, which treats domestic wastewater.
+- **Fraction of Total Annual Water Supply:** Represents 1,584 acre-feet, which is approximately 6% of the total annual water used (based on the total of 7 billion gallons, this is about 0.5 billion gallons).
+
+### Additional Notes:
+- The recycled water is used exclusively for irrigation and industrial processes and cannot be used for human consumption.
+- The Glendale Water Treatment Plant is involved in the local groundwater production, which is part of an ongoing EPA Superfund groundwater clean-up project.
+- The total annual water supply delivered to customers in 2022 was 7 billion gallons, with the breakdown of sources indicating a reliance on both imported and local groundwater, supplemented by recycled water for non-potable uses. 
+
+This summary captures the essential details regarding the sources of water for the Glendale Water & Power system as outlined in the CCR.
+
+
+### Summary of Water Sources for Vista Grande Water Users Association (VGWUA)
+
+1. **Source Type**: Surface Water  
+   **Source Name**: San Jose Water Company (SJWC)  
+   **Location**: Montevina Water Treatment Plant  
+   **Annual Supply Fraction**: 100%  
+   **Notes**: All water for Vista Grande is purchased from SJWC. The water is treated at the Montevina Water Treatment Plant. The source is assessed to be vulnerable to low density septic systems, potential contamination from commercial stables, and historic mining practices.
+
+### Additional Information
+- The report indicates that the water system relies entirely on surface water sourced from the San Jose Water Company, specifically treated at the Montevina Water Treatment Plant. There are no other sources mentioned, and the entire annual water supply is derived from this single source.
+
+
+Based on the provided Consumer Confidence Report (CCR) for the San Antonio Water Company, here is a summary of the water sources utilized by the water system:
+
+### Water Sources Summary
+
+1. **Groundwater**
+   - **Source Type:** Groundwater
+   - **Where it Comes From:** The water system relies on three deep wells located in two underlying groundwater basins: Cucamonga and Chino.
+   - **Fraction of Total Annual Water Supply:** The report does not specify the exact fraction of total annual water supply represented by the groundwater sources.
+
+2. **Deep Rock Tunnel**
+   - **Source Type:** Groundwater (specifically from a tunnel)
+   - **Where it Comes From:** The deep rock tunnel is located in the lower San Antonio Canyon.
+   - **Fraction of Total Annual Water Supply:** The report does not specify the exact fraction of total annual water supply represented by the deep rock tunnel.
+
+### Additional Notes:
+- The water from both the wells and the tunnel is treated with sodium hypochlorite to protect against natural microbial contaminants.
+- The report indicates that the water company is required to test for contaminants typically associated with surface water, such as Cryptosporidium and Giardia lamblia, even though the primary sources are groundwater. This testing is part of the company's compliance with regulations to ensure water safety.
+- Specific details about the quantity of water supplied from each source or the infrastructure used for treatment and distribution are not provided in the report.
+
+This summary captures the essential information regarding the water sources for the San Antonio Water Company as outlined in the CCR.
+
+
+Based on the provided Consumer Confidence Report (CCR) for the Lake Arrowhead Community Services District (LACSD) for the year 2023, here is a summary of the water sources utilized by the water system:
+
+### Water Sources Summary
+
+1. **Lake Arrowhead**
+   - **Source Type:** Surface Water
+   - **Where it Comes From:** Lake Arrowhead is the primary source of water for the LACSD. It is treated and blended with other water sources.
+   - **Fraction of Total Annual Water Supply:** Not specified in the report.
+
+2. **Groundwater**
+   - **Source Type:** Groundwater
+   - **Where it Comes From:** Groundwater is sourced from local wells managed by LACSD.
+   - **Fraction of Total Annual Water Supply:** Not specified in the report.
+
+3. **Crestline-Lake Arrowhead Water Agency (CLAWA)**
+   - **Source Type:** Surface Water
+   - **Where it Comes From:** LACSD purchases treated water from CLAWA, which sources its water from Silverwood Lake. The water is treated and then delivered to LACSD, where it is blended with local groundwater.
+   - **Fraction of Total Annual Water Supply:** Not specified in the report.
+
+4. **Emergency Connection to Lake Arrowhead Water System**
+   - **Source Type:** Surface Water
+   - **Where it Comes From:** This connection allows the Woods system to supply water to Deer Lodge Park (DLP) in emergencies. It is primarily for fire protection and other emergencies.
+   - **Fraction of Total Annual Water Supply:** Not specified in the report.
+
+### Additional Notes:
+- The report emphasizes that LACSD is actively developing more local groundwater supplies to reduce reliance on Lake Arrowhead.
+- The report mentions ongoing efforts to address PFAS contamination and improve water quality through infrastructure investments and treatment systems.
+- Specific fractions of total annual water supply for each source were not provided in the report, indicating that the exact contributions of each source to the overall supply may not have been quantified or disclosed.
+
+This summary captures the key information regarding the water sources utilized by the Lake Arrowhead Community Services District as outlined in the CCR.
+
+
+Based on the provided Consumer Confidence Report (CCR) for the Sacramento County Water Agency's North Service Area (NSA), here is a summary of the water sources utilized by the water system:
+
+### Water Sources Summary
+
+1. **Groundwater**
+   - **Source Type:** Groundwater
+   - **Where It Comes From:** The groundwater is sourced from the Mather/Sunrise/Anatolia water system, which includes seven groundwater wells and two water treatment plants (WTPs).
+   - **Fraction of Total Annual Water Supply:** Approximately 65% of the total annual water supply.
+   - **Notes:** Groundwater is a significant source for the NSA, providing the majority of the water supply.
+
+2. **Surface Water**
+   - **Source Type:** Surface Water
+   - **Where It Comes From:** The surface water is sourced from the Vineyard Surface Water Treatment Plant (VSWTP). The water is treated and distributed to customers.
+   - **Fraction of Total Annual Water Supply:** Approximately 35% of the total annual water supply.
+   - **Notes:** The surface water is treated at the VSWTP, which is a critical infrastructure for ensuring the quality of the water supplied to customers. The report indicates that the surface water is derived from the Sacramento River.
+
+### Additional Notes
+- The report mentions that the Sacramento County Water Agency (SCWA) purchased very little water from Golden State Water Company (<0.01%), which was primarily used for testing and subsequently discharged to waste.
+- The blending of groundwater and surface water is a strategy employed by SCWA to provide safe drinking water to its customers in the NSA.
+
+This summary encapsulates the key details regarding the water sources utilized by the Sacramento County Water Agency in the North Service Area, including their types, origins, and contributions to the overall water supply.
+
+
+Based on the information provided in the City of Colton's 2022 Consumer Confidence Report, here is a summary of the water sources utilized by the water system:
+
+### Water Sources Summary
+
+1. **Groundwater**
+   - **Source Type:** Groundwater
+   - **Where it Comes From:** The City of Colton operates 9 wells that draw water from three underlying groundwater basins: Colton/Rialto Basin, Bunker Hill Basin, and North Riverside Basin.
+   - **Fraction of Total Annual Water Supply:** The report does not specify the exact fraction of total annual water supply represented by groundwater, but it is indicated that this is a primary source for the water system.
+
+2. **Purchased Water**
+   - **Source Type:** Groundwater
+   - **Where it Comes From:** The City of Colton can also source water from the City of San Bernardino, which provides treated groundwater from the Bunker Hill Basin.
+   - **Fraction of Total Annual Water Supply:** The report does not provide specific details on the fraction of total annual water supply represented by this source.
+
+### Notes
+- The report emphasizes that the City of Colton is committed to providing safe and reliable drinking water, and it routinely monitors the water quality from these sources.
+- The groundwater sources are critical for the water supply, and the report mentions that the City has been experiencing a decline in groundwater levels over the past five years, which has led to ongoing water conservation measures.
+- Specific infrastructure details such as the names of treatment plants or pumping facilities are not provided in the report.
+
+This summary captures the essential information regarding the water sources for the City of Colton's water system as outlined in the Consumer Confidence Report.
+
+
+### Summary of Water Sources for Terra Linda Farms
+
+1. **Source Type**: Surface Water  
+   **Source Name**: California Aqueduct  
+   **Purchased From**: Westlands Water District  
+   **Fraction of Total Annual Water Supply**: 1 (100%)  
+   **Notes**: The water system relies entirely on surface water sourced from the California Aqueduct, which is managed by Westlands Water District. The source is noted to be vulnerable to agricultural drainage activities, although no contaminants have been detected. 
+
+This summary indicates that Terra Linda Farms exclusively utilizes surface water from the California Aqueduct for its drinking water supply.

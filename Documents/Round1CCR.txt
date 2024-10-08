@@ -1,0 +1,1687 @@
+**GLENDALE-CITY, WATER DEPT. (CA1910043)**  
+**CCR report year: 2022**  
+
+The Glendale Water and Power (GWP) system relies on three primary sources of water: imported water, local groundwater, and recycled water.
+
+**Source 1: Imported Water**  
+**Source Type**: Surface Water  
+**Where It Comes From**: Purchased from the Metropolitan Water District, which sources it from Northern California and the Colorado River.  
+**Fraction of Total Annual Water Supply**: 65%  
+**Notes**: This source represents a significant portion of the water supply, amounting to approximately 4.55 billion gallons in 2022.
+
+**Source 2: Local Groundwater**  
+**Source Type**: Groundwater  
+**Where It Comes From**: Extracted from the Verdugo and San Fernando Basins.  
+**Fraction of Total Annual Water Supply**: 35%  
+**Notes**: This source is crucial for local water supply, contributing around 2.45 billion gallons in 2022.
+
+**Source 3: Recycled Water**  
+**Source Type**: Recycled Water  
+**Where It Comes From**: Produced by the Los Angeles-Glendale Water Reclamation Plant.  
+**Fraction of Total Annual Water Supply**: Approximately 1,584 acre-feet (which is about 0.05 billion gallons).  
+**Notes**: The recycled water is used exclusively for irrigation and industrial processes, and it meets or exceeds water quality standards for recycled water.
+
+
+**Vista Grande Water Users Association (CA4300550)**  
+**CCR report year: 2023**  
+
+The water system relies on a single source of water, which is purchased from San Jose Water (SJW).
+
+**Source Type**: Surface Water  
+**Where It Comes From**: All water is purchased from San Jose Water (SJW) – Mountain Surface Water. Specific details about the source location and infrastructure can be found in the attached SJW CCR.  
+**Fraction of Total Annual Water Supply**: 100%  
+**Notes**: The report indicates that all water supplied to the Vista Grande Water Users Association is sourced from SJW, which utilizes mountain surface water. Further details regarding the specific locations or treatment facilities are referenced in the SJW CCR.
+
+
+**San Antonio Water Company (CA3610085)**  
+**CCR report year: 2023**  
+
+The San Antonio Water Company relies on three deep wells and a deep rock tunnel for its water supply.
+
+**Source 1**  
+**Source Type**: Groundwater  
+**Where It Comes From**: The water is sourced from three deep wells located in the Cucamonga and Chino groundwater basins.  
+**Fraction of Total Annual Water Supply**: Not specified in the report.  
+**Notes**: The wells are tested for various contaminants, and the results indicate that the water is treated with sodium hypochlorite to protect against microbial contaminants.
+
+**Source 2**  
+**Source Type**: Groundwater  
+**Where It Comes From**: A deep rock tunnel located in the lower San Antonio Canyon.  
+**Fraction of Total Annual Water Supply**: Not specified in the report.  
+**Notes**: The tunnel water is also tested for Cryptosporidium and Giardia lamblia, with results returning as non-detectable.
+
+Overall, the report does not provide specific fractions of total annual water supply for each source, but it emphasizes the reliance on groundwater from wells and a tunnel system for the water supply.
+
+
+**Santa Monica-City, Water Division (CA1910146)**  
+**CCR report year: 2023**  
+
+The Santa Monica-City Water Division relies on two primary sources of water: local groundwater and imported surface water.
+
+**Source 1: Local Groundwater**  
+**Source Type**: Groundwater  
+**Where It Comes From**: Extracted from three sub-basins within the Santa Monica Basin (Charnock, Olympic, and Arcadia Sub-basins) within the City and West Los Angeles.  
+**Fraction of Total Annual Water Supply**: 75%  
+**Notes**: The Charnock Sub-basin has been a local supply since 1924. The water is treated at the Arcadia Water Treatment Plant, which includes processes such as iron/manganese removal, reverse osmosis softening, and disinfection.
+
+**Source 2: Imported Surface Water**  
+**Source Type**: Surface Water  
+**Where It Comes From**: Purchased from the Metropolitan Water District (MWD), which sources water from the Colorado River and the State Water Project (via the California Aqueduct).  
+**Fraction of Total Annual Water Supply**: 25%  
+**Notes**: The MWD water is treated at their treatment plants (Weymouth and Jensen Plants) before being blended with locally produced water and distributed to residents.
+
+
+**Lakewood - City, Water Dept. (CA1910239)**  
+**CCR report year: 2023**  
+
+The water system relies on local deep groundwater wells for its water supply.
+
+**Source Type**: Groundwater  
+**Where It Comes From**: Local deep groundwater wells within the service area of the City of Lakewood.  
+**Fraction of Total Annual Water Supply**: 100%  
+**Notes**: The City of Lakewood operates 11 deep wells to supply water to its residents and businesses. The water system is responsible for providing water services to the area west of the San Gabriel River, while the Golden State Water Company serves the area east of the river. The system also has a standby connection to the Metropolitan Water District of Southern California for emergency use, but this is not a primary source of water. Approximately 6% of the water supply is recycled and used for irrigation at 42 sites.  
+
+Reporting Year 2023
+
+
+Littlerock Creek Irrigation District (CA1910064)  
+CCR report year: 2023  
+
+The water system relies on two sources of water: groundwater and imported surface water.
+
+**Source Type**: Groundwater  
+**Where It Comes From**: Antelope Valley Ground Water Basin, Littlerock, CA  
+**Fraction of Total Annual Water Supply**: Not specified in the report  
+**Notes**: This source is a natural aquifer that provides groundwater for the system.
+
+**Source Type**: Surface Water  
+**Where It Comes From**: Imported State Water Project (SWP) water  
+**Fraction of Total Annual Water Supply**: Not specified in the report  
+**Notes**: The report indicates that the water system imports surface water from the State Water Project, but does not provide specific details on the quantity or infrastructure used for this source.
+
+
+**WESTSIDE HARVESTING (CA1009214)**  
+**CCR report year: 2023**  
+
+The water system relies on surface water sourced from the California Aqueduct via Westlands Water District.
+
+**Source Type**: Surface Water  
+**Where It Comes From**: California Aqueduct via Westlands Water District  
+**Fraction of Total Annual Water Supply**: Not specified in the report  
+**Notes**: The source is considered most vulnerable to agricultural drainage and low-density septic systems. A copy of the drinking water source assessment summary is available upon request.
+
+
+**DEER LODGE WATER SYSTEM (CA3600087)**  
+**CCR report year: 2023**  
+
+The Deer Lodge Water System relies on groundwater and purchased water from the Crestline-Lake Arrowhead Water Agency (CLAWA) for its water supply.
+
+**Source 1**  
+**Source Type**: Groundwater  
+**Where It Comes From**: Local groundwater wells  
+**Fraction of Total Annual Water Supply**: Not specified in the report  
+**Notes**: Chlorine is added to the groundwater before distribution.
+
+**Source 2**  
+**Source Type**: Surface Water  
+**Where It Comes From**: Purchased water from Crestline-Lake Arrowhead Water Agency, which treats water from Silverwood Lake and delivers it to the Deer Lodge Water System.  
+**Fraction of Total Annual Water Supply**: Not specified in the report  
+**Notes**: This water is blended with local groundwater. A connection to the Lake Arrowhead Water System was installed in 2020 for emergency use, providing additional water supply for fire protection and other emergencies.
+
+The report does not provide specific fractions of total annual water supply for each source, but it emphasizes the importance of both groundwater and purchased water in ensuring a reliable water supply for the community.
+
+
+**Whittier-City, Water Dept. (CA1910173)**  
+**CCR report year: 2023**  
+
+The water system relies on groundwater sources for its total annual water supply.
+
+**Source Type**: Groundwater  
+**Where It Comes From**: The City of Whittier pumps water from six active deep wells located in the Whittier Narrows area, which draw from the Main San Gabriel groundwater basin and the Central groundwater basin.  
+**Fraction of Total Annual Water Supply**: 100%  
+**Notes**: The water is treated and delivered to the City of Whittier’s eleven reservoirs for distribution. The report emphasizes the importance of water conservation in Southern California.
+
+
+**Commerce-City, Water Dept. (CA1910050)**  
+**CCR report year: 2023**  
+
+The water system relies on a combination of local groundwater and purchased water from the Metropolitan Water District of Southern California (MWD).
+
+**Source 1**:  
+**Source Type**: Groundwater  
+**Where It Comes From**: Local groundwater sourced from two active wells.  
+**Fraction of Total Annual Water Supply**: Not specified in the report.  
+**Notes**: The groundwater is part of the system's water supply and is treated to meet water quality standards.
+
+**Source 2**:  
+**Source Type**: Purchased Water  
+**Where It Comes From**: Purchased from the Metropolitan Water District of Southern California (MWD), which obtains water from the Colorado River and the State Water Project in northern California.  
+**Fraction of Total Annual Water Supply**: Not specified in the report.  
+**Notes**: The MWD connection is a critical part of the water supply infrastructure for the City of Commerce water system. 
+
+The report does not provide specific fractions of total annual water supply for each source, nor does it detail the exact contribution of each source to the overall water supply.
+
+
+**SCWA MATHER-SUNRISE (CA3410704)**  
+**CCR report year: 2022**  
+
+The SCWA MATHER-SUNRISE water system relies on two primary sources of water: surface water and groundwater.
+
+**Source 1: Surface Water**  
+**Source Type**: Surface Water  
+**Where It Comes From**: The surface water is sourced from the Vineyard Surface Water Treatment Plant (VSWTP).  
+**Fraction of Total Annual Water Supply**: 35%  
+**Notes**: The surface water is treated at the VSWTP before distribution to customers.  
+
+**Source 2: Groundwater**  
+**Source Type**: Groundwater  
+**Where It Comes From**: The groundwater is sourced from seven groundwater wells and two water treatment plants (WTPs) within the Mather/Sunrise/Anatolia water system.  
+**Fraction of Total Annual Water Supply**: 65%  
+**Notes**: The groundwater is blended with surface water to meet the water supply needs of the North Service Area (NSA).  
+
+This summary reflects the water sources utilized by the SCWA MATHER-SUNRISE system in 2022, highlighting the blend of surface and groundwater to provide safe drinking water to its customers.
+
+
+**City of Colton (CA3610014)**  
+**CCR report year: 2022**  
+
+The City of Colton's water system relies on groundwater sources and a supplemental supply from the City of San Bernardino.
+
+**Source Type**: Groundwater  
+**Where It Comes From**: The City of Colton operates nine wells that draw water from three underlying groundwater basins: Colton/Rialto Basin, Bunker Hill Basin, and North Riverside Basin.  
+**Fraction of Total Annual Water Supply**: Not specified in the report.  
+**Notes**: The groundwater wells are the primary source of drinking water for the City of Colton.
+
+**Source Type**: Groundwater (purchased)  
+**Where It Comes From**: The City of San Bernardino provides treated groundwater from the Bunker Hill Basin as a supplemental source.  
+**Fraction of Total Annual Water Supply**: Not specified in the report.  
+**Notes**: This source is utilized if needed, indicating that the City of Colton primarily relies on its own groundwater wells.
+
+The report does not provide specific fractions of total annual water supply for each source, nor does it detail the exact contribution of the City of San Bernardino's supply.
+
+
+**CAL/AM WATER COMPANY - SAN MARINO (CA1910139)**  
+**CCR report year: 2023**  
+
+The water system relies on two primary sources of water: groundwater and surface water.
+
+**Source 1**  
+**Source Type**: Groundwater  
+**Where It Comes From**: The groundwater is sourced from the Main San Gabriel and Raymond Basins.  
+**Fraction of Total Annual Water Supply**: 90%  
+**Notes**: This source represents the majority of the water supply for the San Marino Water System.
+
+**Source 2**  
+**Source Type**: Surface Water  
+**Where It Comes From**: The surface water is purchased from the Metropolitan Water District of Southern California (MWDSC) via the Weymouth Treatment Plant. MWDSC's sources of raw surface water include the Sacramento River Delta and Colorado River.  
+**Fraction of Total Annual Water Supply**: 10%  
+**Notes**: The surface water is treated at the Weymouth Treatment Plant before distribution.
+
+
+**TERRA LINDA FARMS (CA1009222)**  
+**CCR report year: 2023**  
+
+The water system relies on a single source of water, which is surface water.
+
+**Source Type**: Surface Water  
+**Where It Comes From**: California Aqueduct via Westlands Water District  
+**Fraction of Total Annual Water Supply**: 1 (100% of the total annual water supply)  
+**Notes**: The source is considered most vulnerable to agricultural drainage activities, but no detected contaminants were reported. The water is sourced from the California Aqueduct, which is a significant infrastructure for water delivery in California.
+
+
+**Lakeside Water District (CA3710013)**  
+**CCR report year: 2023**  
+
+Lakeside Water District relies on two primary sources of water: groundwater and treated surface water.
+
+**Source 1**  
+**Source Type**: Groundwater  
+**Where It Comes From**: Santee-El Monte Basin, a groundwater source for the community.  
+**Fraction of Total Annual Water Supply**: Not specified in the report.  
+**Notes**: The groundwater source provides good water quality with small amounts of iron and manganese, which are removed at a specially designed treatment plant located at the District's Administration and Operations facility at 10375 Vine Street, Lakeside.
+
+**Source 2**  
+**Source Type**: Treated Surface Water  
+**Where It Comes From**: Imported from the Metropolitan Water District of Southern California and the San Diego County Water Authority, treated at Metropolitan’s Skinner Treatment Plant near Temecula and Helix Water District’s Levy Treatment Plant.  
+**Fraction of Total Annual Water Supply**: Not specified in the report.  
+**Notes**: This water is a blend from the Colorado River System and the California State Water Project. 
+
+The report does not provide specific fractions of total annual water supply for each source.
+
+
+**Oak Glen Domestic Water (CA3600185)**  
+**CCR report year: 2023**  
+
+The water system relies on groundwater from three wells located in Ford Canyon.
+
+**Source Type**: Groundwater  
+**Where It Comes From**: The water is sourced from three wells located at the end of Glen Road in Oak Glen, CA, which tap into fault-directed water sources in Ford Canyon.  
+**Fraction of Total Annual Water Supply**: 100%  
+**Notes**: The wells have been assessed for contaminants, and there have been no changes or risks identified in 2023. The natural filtration process contributes to the clarity of the water used daily.
+
+
+**Golden Hills Community Services District (CA1510045)**  
+**CCR report year: 2023**  
+
+The water system relies on groundwater as its primary source of water.
+
+**Source Type**: Groundwater  
+**Where It Comes From**: The groundwater is sourced from wells located inside and immediately adjacent to the Tehachapi groundwater basin, which is maintained and managed by the Tehachapi-Cummings County Water District.  
+**Fraction of Total Annual Water Supply**: 1 (100% of the total annual water supply is from this source)  
+**Notes**: The groundwater is extracted from an adjudicated water basin, and the system includes over sixty miles of underground pipeline and numerous storage tanks to deliver a blended product to customers. The report indicates that while some wells show elevated levels of nitrate, the blended water does not pose a threat to overall water quality.
+
+
+**La Grange Water System (CA5000010)**  
+**CCR report year: 2023**  
+
+The La Grange Water System relies on surface water sourced from the French Pit/Main Canal.
+
+**Source Type**: Surface Water  
+**Where It Comes From**: French Pit/Main Canal, La Grange, CA  
+**Fraction of Total Annual Water Supply**: 100%  
+**Notes**: The water system utilizes surface water exclusively from the French Pit/Main Canal. The system is managed by the Turlock Irrigation District, which is responsible for the water supply.
+
+
+BELLFLOWER HOME GARDEN WATER COMPANY (CA1910012)  
+CCR report year: 2023  
+
+The water sources identified for the Bellflower Home Garden Water Company include groundwater and surface water.
+
+**Source Type**: Groundwater  
+**Where It Comes From**: Extracted from local aquifers.  
+**Fraction of Total Annual Water Supply**: 70%  
+**Notes**: The groundwater is sourced from wells that tap into the local aquifers, providing a significant portion of the water supply for the system.  
+
+**Source Type**: Surface Water  
+**Where It Comes From**: Purchased from the City of Bellflower, sourced from the Rio Hondo River.  
+**Fraction of Total Annual Water Supply**: 30%  
+**Notes**: The surface water is treated at the Bellflower Water Treatment Plant before being distributed to customers. The water is diverted from the Rio Hondo River and is an essential complement to the groundwater supply.
+
+
+**Yuima Municipal Water District (CA3701408)**  
+**CCR report year: 2023**  
+
+The Yuima Municipal Water District relies on two main sources of water: local groundwater and imported treated surface water.
+
+**Source 1**  
+**Source Type**: Groundwater  
+**Where It Comes From**: Pumped from underground wells throughout the Pauma Valley, specifically from the Pauma Valley Groundwater Basin.  
+**Fraction of Total Annual Water Supply**: Not specified in the report.  
+**Notes**: The groundwater is treated with a sodium hypochlorite solution (chlorine) to disinfect it and remove potential bacteria contamination.
+
+**Source 2**  
+**Source Type**: Imported Treated Surface Water  
+**Where It Comes From**: Purchased from the San Diego County Water Authority (SDCWA), which sources the majority of its water from the Metropolitan Water District of Southern California (MWD). MWD imports water from the Colorado River and the State Water Project (SWP).  
+**Fraction of Total Annual Water Supply**: Not specified in the report.  
+**Notes**: The imported water quality issues differ from those affecting groundwater. The report indicates that a portion of the northwestern part of the service area is also supplied by the Schoepe wells, which may be relevant for understanding the overall water supply mix.
+
+
+**FCSA #32/CANTUA CREEK (CA1000359)**  
+**CCR report year: 2023**  
+
+The water system relies on surface water from the California Aqueduct as its source of drinking water.
+
+**Source Type**: Surface Water  
+**Where It Comes From**: California Aqueduct, specifically from Westlands Water District Lateral #14 and Lateral #13 (0.5-0.95).  
+**Fraction of Total Annual Water Supply**: 100%  
+**Notes**: The California Aqueduct is considered most vulnerable to agricultural drainage and is exposed to various potential contaminants throughout its length. The water entering the system is influenced by runoff and drainage from agricultural activities, particularly downstream from the San Luis Reservoir.
+
+
+**Running Springs Water District (CA3610062)**  
+**CCR report year: 2023**  
+
+The water system relies on groundwater wells and imported water from two agencies.
+
+**Source Type**: Groundwater  
+**Where It Comes From**: Groundwater wells located throughout the Running Springs Water District.  
+**Fraction of Total Annual Water Supply**: Not specified in the report.  
+**Notes**: This is the primary source of water for the district.
+
+---
+
+**Source Type**: Imported Water  
+**Where It Comes From**: State Water Project water purchased from the Crestline-Lake Arrowhead Water Agency (CLAWA).  
+**Fraction of Total Annual Water Supply**: Not specified in the report.  
+**Notes**: This source supplements the district's water supply.
+
+---
+
+**Source Type**: Imported Groundwater  
+**Where It Comes From**: Groundwater purchased from Arrowbear Park County Water District (ABPCWD).  
+**Fraction of Total Annual Water Supply**: Not specified in the report.  
+**Notes**: This source also contributes to the district's overall water supply.
+
+---
+
+The report does not provide specific fractions of total annual water supply for each source, but it indicates that the primary source is groundwater wells, supplemented by imported water from CLAWA and ABPCWD.
+
+
+**Santa Clarita Valley W.A.-Castaic Div. (CA1910247)**  
+**CCR report year: 2022**  
+
+The water system relies on four primary sources: groundwater, imported water, recycled water, and stored (banked) water.
+
+**Source 1: Groundwater**  
+**Source Type**: Groundwater  
+**Where It Comes From**: Local aquifers, specifically the Alluvium and Saugus Formation.  
+**Fraction of Total Annual Water Supply**: 38% (24,000 acre-feet)  
+**Notes**: Groundwater is sourced from precipitation and is a sustainable local resource.
+
+---
+
+**Source 2: Imported Water**  
+**Source Type**: Surface Water  
+**Where It Comes From**: Water imported from the Sierra Nevadas in Northern California via the State Water Project.  
+**Fraction of Total Annual Water Supply**: 17% (11,100 acre-feet)  
+**Notes**: This water travels hundreds of miles before reaching the system.
+
+---
+
+**Source 3: Recycled Water**  
+**Source Type**: Recycled Water  
+**Where It Comes From**: Recycled water is used primarily for outdoor irrigation.  
+**Fraction of Total Annual Water Supply**: 1% (340 acre-feet)  
+**Notes**: SCV Water is expanding its recycled water use to enhance reliability and reduce reliance on imported water.
+
+---
+
+**Source 4: Stored (Banked) Water**  
+**Source Type**: Groundwater (banked)  
+**Where It Comes From**: Water stored in Kern County, north of the Santa Clarita Valley.  
+**Fraction of Total Annual Water Supply**: 43% (27,000 acre-feet)  
+**Notes**: This source is utilized during droughts or emergencies, providing a significant buffer for the water supply.
+
+--- 
+
+This summary provides a clear overview of the water sources utilized by the Santa Clarita Valley W.A.-Castaic Division in 2022, highlighting their types, origins, and contributions to the overall water supply.
+
+
+RAINBOW MUNICIPAL WD (CA3710016)  
+CCR report year: 2023  
+
+Rainbow Municipal Water District relies on imported water sources for its total water supply.  
+
+**Source Type**: Surface Water  
+**Where It Comes From**: Rainbow Water purchases 100% of its treated water from the San Diego County Water Authority (SDCWA), which sources water from the Metropolitan Water District of Southern California. The water is primarily sourced from the Northern Sierra Mountains through the State Water Project and the Rocky Mountains via the Colorado River Aqueduct. The main treatment facility for this water is the Robert A. Skinner Treatment Plant located in Temecula, Riverside County. Additionally, SDCWA treats water at the Twin Oaks Water Treatment Plant, which is south of the Rainbow Water service area.  
+**Fraction of Total Annual Water Supply**: 100%  
+**Notes**: The water is delivered through a complex system of aqueducts and pipes, and during periods of low demand, blended water may be distributed to the southern end of Rainbow Water's service area.
+
+
+**Monterey Park-City, Water Dept. (CA1910092)**  
+**CCR report year: 2023**  
+
+The water system relies on groundwater sources and purchased water from another water company.
+
+**Source Type**: Groundwater  
+**Where It Comes From**: Production wells located in the Main San Gabriel Groundwater Basin.  
+**Fraction of Total Annual Water Supply**: Not specified in the report.  
+**Notes**: The groundwater sources are considered vulnerable to contamination from various industrial activities. The City has implemented treatment facilities to remove contaminants from the groundwater.
+
+**Source Type**: Groundwater (purchased)  
+**Where It Comes From**: Purchased from San Gabriel Valley Water Company, which pumps groundwater from the Main Basin and the Central Basin.  
+**Fraction of Total Annual Water Supply**: Not specified in the report.  
+**Notes**: The San Gabriel Valley Water Company also conducts groundwater source assessments to monitor for contamination.
+
+The report emphasizes the importance of water quality and the ongoing efforts to ensure safe drinking water for the community.
+
+
+**Rancho Del Campo Water System (CA3700859)**  
+**CCR report year: 2023**  
+
+The Rancho Del Campo Water System relies on groundwater wells as its source of drinking water.
+
+**Source Type**: Groundwater  
+**Where It Comes From**: Wells #1 and #3 are located near Parker Road, and Well #4 is near Moore Road. Wells #1 and #3 are processed through a uranium removal facility before being released into the distribution system.  
+**Fraction of Total Annual Water Supply**: 100%  
+**Notes**: The report indicates that all drinking water supplied met state and federal standards, and the wells are the sole source of water for the system.
+
+
+**GSWC - ARTESIA (CA1910004)**  
+**CCR report year: 2023**  
+
+The water system relies on groundwater from the Central Groundwater Basin and also purchases additional groundwater from the City of Cerritos.
+
+**Source Type**: Groundwater  
+**Where It Comes From**: The water is pumped from the Central Groundwater Basin, which is bounded by various geological features and also includes water purchased from the City of Cerritos, which sources its water from the same basin.  
+**Fraction of Total Annual Water Supply**: 100%  
+**Notes**: The Central Groundwater Basin is a significant source for the Artesia Water System, and the system's groundwater sources are considered vulnerable to various activities that may introduce contaminants.  
+
+No surface water or recycled water sources were identified in the report.
+
+
+**High Desert Detention Center (CA3601182)**  
+**CCR report year: 2022**  
+
+The High Desert Detention Center relies on one primary water source: groundwater from a well and a backup connection to the City of Adelanto water system.
+
+**Source Type**: Groundwater  
+**Where It Comes From**: The water is sourced from a single submersible well located in the Alto Subarea Water Basin. Additionally, there is a backup water connection to the City of Adelanto.  
+**Fraction of Total Annual Water Supply**: 100% (as the report indicates that the system primarily uses the well and a limited supply from the City of Adelanto)  
+**Notes**: The well is equipped with a pre-filter, reverse osmosis system, calcite treatment, chlorinator, and has a storage tank capacity of 226,000 gallons. The connection to the City of Adelanto serves as a backup supply.
+
+
+**Shadow Acres Mutual Water Company (CA1900301)**  
+**CCR report year: 2023**  
+
+The water system relies on two sources of water: groundwater and treated surface water.
+
+**Source 1**  
+**Source Type**: Groundwater  
+**Where It Comes From**: Community groundwater well  
+**Fraction of Total Annual Water Supply**: Not specified in the report  
+**Notes**: Groundwater is vulnerable to nitrates from septic tanks and fertilizer use.
+
+**Source 2**  
+**Source Type**: Treated Surface Water  
+**Where It Comes From**: California Aqueduct water purchased from Antelope Valley East Kern Water Agency (AVEK) from their Quartz Hill facility.  
+**Fraction of Total Annual Water Supply**: Not specified in the report  
+**Notes**: The water system blends AVEK's treated surface water with groundwater to manage supply and reduce hard water effects on plumbing. The goal is a 50/50 blend, but higher consumer use may lead to increased purchases from AVEK.
+
+
+**Rosamond CSD (CA1510018)**  
+**CCR report year: 2023**  
+
+The Rosamond CSD relies on a blend of surface water and groundwater for its water supply.
+
+**Source Type**: Surface Water  
+**Where It Comes From**: Supplied by the Antelope Valley East Kern Water Agency (AVEK).  
+**Fraction of Total Annual Water Supply**: Not specified in the report.  
+**Notes**: Surface water is blended with groundwater from the District's wells before distribution.
+
+**Source Type**: Groundwater  
+**Where It Comes From**: Extracted from the District's two producing water wells.  
+**Fraction of Total Annual Water Supply**: Not specified in the report.  
+**Notes**: The groundwater is blended with surface water for distribution. 
+
+The report does not provide specific fractions of total annual water supply for each source, nor does it detail the exact locations or infrastructure used for the surface water treatment or movement.
+
+
+**Maurland Manor Water System (CA3900543)**  
+**CCR report year: 2021**  
+
+The Maurland Manor Water System relies on groundwater sourced from the Fairoaks Water System CSA 44.
+
+**Source Type**: Groundwater  
+**Where It Comes From**: The primary source of potable water for the Maurland Manor Water System is the Fairoaks Water System CSA 44, which utilizes groundwater wells (specifically Wells #2, #3, and #4).  
+**Fraction of Total Annual Water Supply**: 100%  
+**Notes**: The Maurland Manor well was destroyed in 2006 due to exceeding the Maximum Contaminant Level (MCL) for nitrates. The Fairoaks Water System is now the sole source of water for the Maurland Manor Water System. A copy of the "Annual Drinking Water Quality Report" for the Fairoaks CSA 44 water system is provided for further information.
+
+
+COVINA-CITY, WATER DEPT. (CA1910127)  
+CCR report year: 2023  
+
+The water sources identified for the City of Covina's water supply in 2023 are from the Covina Irrigating Company and the Metropolitan Water District of Southern California.  
+
+**Source Type**: Surface Water  
+**Where It Comes From**: The Covina Irrigating Company filters surface water from the San Gabriel River.  
+**Fraction of Total Annual Water Supply**: Not specified in the report.  
+**Notes**: The Covina Irrigating Company is responsible for testing the drinking water it supplies to the City of Covina.  
+
+**Source Type**: Surface Water  
+**Where It Comes From**: The Metropolitan Water District of Southern California supplies imported surface water from the Colorado River and the Sacramento and San Joaquin rivers in Northern California through its Weymouth Plant.  
+**Fraction of Total Annual Water Supply**: Not specified in the report.  
+**Notes**: The Metropolitan Water District's water is treated primarily with ozone for disinfection, with chlorine as a backup.  
+
+The report does not provide specific fractions of total annual water supply for each source, but it indicates that both sources contribute to the overall water supply for the City of Covina.
+
+
+**Golden State Water Company - Bay Point (CA0710002)**  
+**CCR report year: 2023**  
+
+The water system relies on a blend of groundwater and surface water for its supply.
+
+**Source 1**  
+**Source Type**: Groundwater  
+**Where It Comes From**: Groundwater is pumped from wells owned and operated by Golden State Water Company.  
+**Fraction of Total Annual Water Supply**: Not specified in the report.  
+**Notes**: The groundwater sources are considered vulnerable to various activities, but no specific contaminants were detected in the water supply.
+
+**Source 2**  
+**Source Type**: Surface Water  
+**Where It Comes From**: Surface water is treated at the Contra Costa Water District’s Randall-Bold and Bollman water treatment plants.  
+**Fraction of Total Annual Water Supply**: Not specified in the report.  
+**Notes**: The report indicates that the surface water is blended with groundwater to deliver water to customers. Specific details about the infrastructure used to move or treat the surface water were not provided.
+
+
+**Strathmore Public Utility District (CA5410012)**  
+**CCR report year: 2023**  
+
+The water sources identified for the Strathmore Public Utility District include surface water from the Friant Kern Canal and groundwater from Well No. 2.  
+
+**Source Type**: Surface Water  
+**Where It Comes From**: Friant Kern Canal  
+**Fraction of Total Annual Water Supply**: Not specified in the report  
+**Notes**: The surface water is treated using conventional filtration with dual media gravity filters followed by chlorination.  
+
+**Source Type**: Groundwater  
+**Where It Comes From**: Well No. 2  
+**Fraction of Total Annual Water Supply**: Not specified in the report  
+**Notes**: Groundwater that exceeds the nitrate Maximum Contaminant Level (MCL) is mixed with surface water prior to treatment, ensuring the blended supply has a nitrate level well below the allowed maximum.  
+
+The report does not provide specific fractions of total annual water supply for each source, but it indicates that both sources are integral to the water supply system.
+
+
+**Lake Hemet MWD (CA3310022)**  
+**CCR report year: 2023**  
+
+The water system relies on groundwater sources and a small fraction of purchased water from another water district.
+
+**Source Type**: Groundwater  
+**Where It Comes From**: Ten wells located along the San Jacinto River from Valle Vista to San Jacinto.  
+**Fraction of Total Annual Water Supply**: 99.57%  
+**Notes**: The groundwater is treated with chlorine disinfectant. The system has conducted complete drinking water source assessments in 2002, 2014, and 2022, which are available upon request.
+
+**Source Type**: Purchased Water  
+**Where It Comes From**: Eastern Municipal Water District (EMWD), which also sources from local groundwater.  
+**Fraction of Total Annual Water Supply**: 0.43%  
+**Notes**: This water is treated similarly to the system's groundwater sources.
+
+
+**VALLEY WATER CO. (CA1910166)**  
+**CCR report year: 2022**  
+
+Valley Water Co. relies on two primary sources of water: groundwater from the Raymond groundwater basin and imported surface water from the Metropolitan Water District of Southern California (MWD).
+
+**Source 1: Groundwater**  
+**Source Type**: Groundwater  
+**Where It Comes From**: Two wells pumping from the Raymond groundwater basin.  
+**Fraction of Total Annual Water Supply**: 0.20 (20%)  
+**Notes**: Groundwater is blended with imported water during the months of May through October to meet water quality standards.
+
+**Source 2: Surface Water**  
+**Source Type**: Surface Water  
+**Where It Comes From**: Purchased from the Metropolitan Water District of Southern California (MWD), which sources water from the Colorado River and Northern California's State Water Project. The water is treated at the Weymouth Filtration Plant in La Verne.  
+**Fraction of Total Annual Water Supply**: 0.80 (80%)  
+**Notes**: MWD's water is a blend of Colorado River water and surface water from Northern California. During January through April, November, and December, Valley Water delivered 100% imported water from MWD.
+
+
+**EASTERN MUNICIPAL WD (CA3310009)**  
+**CCR report year: 2023**  
+
+The water system relies on a combination of groundwater and surface water sources, including local groundwater wells and treated imported water.
+
+**Source 1: Mills Filtration Plant**  
+**Source Type**: Surface Water  
+**Where It Comes From**: The Mills Filtration Plant treats imported surface water supplied solely from northern California through the State Water Project (SWP).  
+**Fraction of Total Annual Water Supply**: 28.2%  
+**Notes**: The plant adjusts fluoride levels and uses chloramine for final disinfection.
+
+**Source 2: Perris Valley Wells**  
+**Source Type**: Groundwater  
+**Where It Comes From**: Local groundwater wells serving a limited area of Perris.  
+**Fraction of Total Annual Water Supply**: 3.1%  
+**Notes**: This source provides water to a specific area along Perris Boulevard.
+
+**Source 3: Perris Water Filtration Plant**  
+**Source Type**: Surface Water  
+**Where It Comes From**: The Perris Water Filtration Plant treats both Colorado River and SWP waters.  
+**Fraction of Total Annual Water Supply**: 21.7%  
+**Notes**: The plant uses ultrafiltration technology and chloramine for final disinfection.
+
+**Source 4: Desalination Complex**  
+**Source Type**: Groundwater  
+**Where It Comes From**: Converts salty groundwater into potable water using a reverse osmosis process.  
+**Fraction of Total Annual Water Supply**: 17.8%  
+**Notes**: This complex includes Menifee and Perris I and II Desalters.
+
+**Source 5: Skinner Filtration Plant**  
+**Source Type**: Surface Water  
+**Where It Comes From**: The Skinner Filtration Plant treats water from the Colorado River and SWP.  
+**Fraction of Total Annual Water Supply**: 13.3%  
+**Notes**: Similar to the Mills Plant, it adjusts fluoride levels and uses chloramine for disinfection.
+
+**Source 6: East Valley Wells**  
+**Source Type**: Groundwater  
+**Where It Comes From**: Local groundwater wells serving the East Valley area.  
+**Fraction of Total Annual Water Supply**: 6.6%  
+**Notes**: These wells contribute to the overall water supply for the East Valley service area.
+
+**Source 7: Hemet Filtration Plant**  
+**Source Type**: Surface Water  
+**Where It Comes From**: The Hemet Water Filtration Plant treats both Colorado River and SWP waters.  
+**Fraction of Total Annual Water Supply**: 9.3%  
+**Notes**: This plant also uses ultrafiltration technology and chloramine for disinfection.
+
+Overall, EMWD utilizes a diverse range of sources to ensure a reliable and safe water supply for its customers.
+
+
+LAKE ISABELLA COMMUNITY SERVICES DIST. (CA1503270)  
+CCR report year: 2023  
+
+Summary sentence listing the water sources identified: The water system relies on groundwater as its primary source of water.  
+
+**Source Type**: Groundwater  
+**Where It Comes From**: The groundwater is sourced from local aquifers.  
+**Fraction of Total Annual Water Supply**: 100%  
+**Notes**: The report indicates that the system does not utilize surface water or recycled water, relying solely on groundwater for its total annual water supply.
+
+
+EAST NILES CSD (CA1510006)  
+CCR report year: 2022  
+
+The water system relies on groundwater as its source of water.  
+
+**Source Type**: Groundwater  
+**Where It Comes From**: The groundwater is sourced from local aquifers.  
+**Fraction of Total Annual Water Supply**: 100%  
+**Notes**: The report indicates that the system does not utilize surface water or recycled water, relying solely on groundwater for its total annual water supply.
+
+
+**Randal's Ranchette Mutual Water Company (CA4900599)**  
+**CCR report year: 2020**  
+
+The water system relies on a single source of groundwater for its drinking water supply.
+
+**Source Type**: Groundwater  
+**Where It Comes From**: Well #2, located at 4575 Badger Road, Santa Rosa, California.  
+**Fraction of Total Annual Water Supply**: 1 (100% of the total supply comes from this source).  
+**Notes**: The report indicates that there was no detection of any foreign matter in the well or distribution system, and the well continues to provide clean, safe potable water to the community.
+
+
+**CAL-AM WATER CORONADO (CA3710001)**  
+**CCR report year: 2023**  
+
+The water system relies entirely on treated surface water purchased from the City of San Diego.
+
+**Source Type**: Surface Water  
+**Where It Comes From**: The City of San Diego, which obtains 80 to 90 percent of its raw surface water supplies from the San Diego County Water Authority and the remainder from local reservoirs. The San Diego County Water Authority sources most of its supply from the Metropolitan Water District of Southern California (MWDSC), which has its main raw water sources from the Colorado River and the Sacramento River Delta. Water is conveyed to MWDSC via the Colorado and California aqueducts. The Coronado system receives its drinking water from two of the City’s three water treatment plants: Alvarado and Otay.  
+**Fraction of Total Annual Water Supply**: 100%  
+**Notes**: The water from the City’s Miramar WTP does not reach the Coronado water system and is not included in the supply. The City of San Diego began fluoridating the water produced at its treatment plants at an optimized target level of 0.6 mg/L.
+
+
+ALPINE MEADOWS PROPERTY OWNERS ASSO (CA3100041)  
+CCR report year: 2023  
+
+The water system relies on groundwater as its source of water.  
+
+**Source Type**: Groundwater  
+**Where It Comes From**: The water is sourced from local groundwater wells.  
+**Fraction of Total Annual Water Supply**: 100%  
+**Notes**: No additional details about the specific wells or their locations were provided in the report.
+
+
+**Valencia Heights Water Company (CA1910163)**  
+**CCR report year: 2023**  
+
+The water sources identified for Valencia Heights Water Company include groundwater from the Main San Gabriel Basin, surface water from the San Gabriel River treated by Covina Irrigating Company (CIC), and treated surface water from the Metropolitan Water District of Southern California (MWD).  
+
+**Source Type**: Groundwater  
+**Where It Comes From**: Main San Gabriel Basin  
+**Fraction of Total Annual Water Supply**: Not specified in the report  
+**Notes**: This source is a natural aquifer system that provides groundwater for the water system.  
+
+**Source Type**: Surface Water  
+**Where It Comes From**: San Gabriel River, treated by Covina Irrigating Company (CIC)  
+**Fraction of Total Annual Water Supply**: Not specified in the report  
+**Notes**: The water is treated before being supplied to Valencia Heights Water Company. The source is considered vulnerable to various contaminants due to its proximity to urban and agricultural activities.  
+
+**Source Type**: Treated Surface Water  
+**Where It Comes From**: Metropolitan Water District of Southern California (MWD)  
+**Fraction of Total Annual Water Supply**: Not specified in the report  
+**Notes**: The water is treated and disinfected using chloramines before distribution. MWD's source water is also exposed to potential contaminants from stormwater runoff and other activities.  
+
+The report does not provide specific fractions of total annual water supply for each source, but it emphasizes the importance of monitoring and maintaining water quality from these sources.
+
+
+**City of Grass Valley (CA2910001)**  
+**CCR report year: 2023**  
+
+The water system relies on one identified source of water: surface water from the NID DS Canal, originating from Lower Scotts Flat Lake.
+
+**Source Type**: Surface Water  
+**Where It Comes From**: NID DS Canal, originating from Lower Scotts Flat Lake.  
+**Fraction of Total Annual Water Supply**: Not specified in the report.  
+**Notes**: The report mentions that the source water assessment conducted in 2021 confirmed very low levels of contaminants in the district watersheds, with potential contamination sources including highways, septic tanks, and recreational activities. The water system utilizes dual media gravity filtration for treatment, and all turbidity performance standards were met in 2023.
+
+
+**Helix Water District (CA3710010)**  
+**CCR report year: 2023**  
+
+The Helix Water District relies on a blend of water sources, including imported water from the San Diego County Water Authority and local surface water.
+
+**Source 1**  
+**Source Type**: Imported Water  
+**Where It Comes From**: Purchased from the San Diego County Water Authority, which sources water from the Colorado River and Northern California via the State Water Project.  
+**Fraction of Total Annual Water Supply**: 86% (average over the past 30 years)  
+**Notes**: This source is primarily used due to limited local precipitation.
+
+**Source 2**  
+**Source Type**: Local Surface Water  
+**Where It Comes From**: Collected from local runoff in Lake Cuyamaca and El Capitan Reservoir.  
+**Fraction of Total Annual Water Supply**: 14% (remaining supply after imported water)  
+**Notes**: The amount of local surface water varies throughout the year based on availability.
+
+**Source 3**  
+**Source Type**: Treated Water  
+**Where It Comes From**: 97.6% of the water is treated at the R.M. Levy Water Treatment Plant in Lakeside. The remaining 2.4% is purchased and treated at the Metropolitan Water District of Southern California’s R.A. Skinner Treatment Plant, SDCWA’s Twin Oaks Valley Water Treatment Plant, and/or the Claude “Bud” Lewis Carlsbad Desalination Plant.  
+**Fraction of Total Annual Water Supply**: 2.4% (purchased water)  
+**Notes**: The treatment process includes advanced methods to ensure high-quality water for customers.
+
+
+**FCSA #39 A&B (CA1000471)**  
+**CCR report year: 2023**  
+
+The water system relies on groundwater as its source of drinking water.
+
+**Source Type**: Groundwater  
+**Where It Comes From**: Fresno City Water, Fresno District  
+**Fraction of Total Annual Water Supply**: 1 (100% of the total supply is from this source)  
+**Notes**: The City of Fresno provides water to the CSA 39AB (Beran Way/Prospect Grove) water system. An assessment of the drinking water source has not been completed or is not on file.
+
+
+**Quartz Hill Water District (CA1910130)**  
+**CCR report year: 2023**  
+
+The water system relies on two sources of water: groundwater and surface water.
+
+**Source 1: Groundwater**  
+**Source Type**: Groundwater  
+**Where It Comes From**: Groundwater is sourced from 10 wells owned and operated by the Quartz Hill Water District.  
+**Fraction of Total Annual Water Supply**: 46%  
+**Notes**: The wells vary in depth from 500 to 600 feet and are monitored daily to ensure high water quality.
+
+**Source 2: Surface Water**  
+**Source Type**: Surface Water  
+**Where It Comes From**: Surface water is supplied from AVEK’s Quartz Hill Treatment Plant through two interconnections.  
+**Fraction of Total Annual Water Supply**: 54%  
+**Notes**: This source represents the majority of the water supply for the district in 2023.
+
+
+AMARILLO MUTUAL WATER COMPANY (CA1910002)  
+CCR report year: 2023  
+
+The water sources identified for the AMARILLO MUTUAL WATER COMPANY include groundwater.  
+
+**Source Type**: Groundwater  
+**Where It Comes From**: The groundwater is sourced from local aquifers.  
+**Fraction of Total Annual Water Supply**: 100%  
+**Notes**: The report indicates that the entire water supply for the system is derived from groundwater sources, with no additional surface water or recycled water sources mentioned.
+
+
+**Forestville Water District (CA4910019)**  
+**CCR report year: 2023**  
+
+The Forestville Water District relies on groundwater sourced from production wells along the Russian River.
+
+**Source Type**: Groundwater  
+**Where It Comes From**: The water is sourced from 7 production wells located at Mirabel between Caisson 2 and 5 along the Russian River. The Sonoma County Water Agency operates these Ranney Radial Collector Wells. Production wells 1, 4, 6, and 7 are standby wells, while wells 2, 3, and 5 are inactive.  
+**Fraction of Total Annual Water Supply**: Not specified in the report.  
+**Notes**: The report indicates that the wells are part of a system managed by the Sonoma County Water Agency, which suggests a reliance on local groundwater resources. Specific quantities or fractions of total supply were not provided in the report.
+
+
+**Santa Clarita Valley W.A.-Imported Div. (CA1910048)**  
+**CCR report year: 2023**  
+
+The water system relies on three primary sources: groundwater, imported water, and recycled water.
+
+**Groundwater**:  
+**Source Type**: Groundwater  
+**Where It Comes From**: Local, sustainable groundwater found in the Alluvium and Saugus Formation aquifers.  
+**Fraction of Total Annual Water Supply**: 24% (13,500 acre-feet)  
+**Notes**: Groundwater is sourced from natural underground aquifers and is a significant part of the water supply strategy.
+
+---
+
+**Imported Water**:  
+**Source Type**: Surface Water  
+**Where It Comes From**: Water imported from the Sierra Nevadas in Northern California, treated through one of the two treatment plants (Earl Schmidt Filtration Plant or Rio Vista Treatment Plant).  
+**Fraction of Total Annual Water Supply**: 75% (40,500 acre-feet)  
+**Notes**: This water travels hundreds of miles to reach the Santa Clarita Valley and is essential for meeting the community's water needs.
+
+---
+
+**Recycled Water**:  
+**Source Type**: Recycled Water  
+**Where It Comes From**: Recycled water is produced for outdoor irrigation uses.  
+**Fraction of Total Annual Water Supply**: 1% (275 acre-feet)  
+**Notes**: SCV Water is expanding its recycled water infrastructure to ensure reliable supply for irrigation and reduce reliance on other water sources.
+
+---
+
+**Stored (Banked) Water**:  
+**Source Type**: Groundwater (Banked)  
+**Where It Comes From**: Stored water from Kern County, which can be utilized during droughts or emergencies.  
+**Fraction of Total Annual Water Supply**: Not specified as a fraction of total supply in the report.  
+**Notes**: This source represents an additional component of the water supply strategy, with 121,000 acre-feet available for use during critical periods.
+
+
+**TRACT 349 MUTUAL WATER CO. (CA1910160)**  
+**CCR report year: 2023**  
+
+The water system relies on local, deep groundwater wells for its water supply.  
+
+**Source Type**: Groundwater  
+**Where It Comes From**: Local, deep groundwater wells located within the service area.  
+**Fraction of Total Annual Water Supply**: 100%  
+**Notes**: The report indicates that all water supplied to customers comes from these groundwater wells.
+
+
+**Box Springs Mutual Water Company (CA3310004)**  
+**CCR report year: 2023**  
+
+The water sources identified for Box Springs Mutual Water Company include groundwater and imported water.
+
+**Source 1**  
+**Source Type**: Groundwater  
+**Where It Comes From**: Pumped from local well, referred to as Well #17.  
+**Fraction of Total Annual Water Supply**: 60%  
+**Notes**: The groundwater is treated with a small amount of liquid chlorine to meet disinfection standards.
+
+**Source 2**  
+**Source Type**: Surface Water  
+**Where It Comes From**: Supplied by Western Municipal Water District, which purchases water from the Metropolitan Water District of Southern California. The water is sourced from Northern California via the California Aqueduct and treated at the Henry J. Mills Water Treatment Plant in Riverside.  
+**Fraction of Total Annual Water Supply**: 40%  
+**Notes**: The surface water is blended with groundwater to reduce the higher nitrate content of the well water to a State Water Resources Control Board approved level.
+
+
+**LA VERNE, CITY WD (CA1910062)**  
+**CCR report year: 2023**  
+
+The water system relies on two primary sources of water: local groundwater and imported water from the Metropolitan Water District of Southern California.
+
+**Source 1: Local Groundwater**  
+**Source Type**: Groundwater  
+**Where It Comes From**: Various city-owned wells including Beech Street Well, La Verne Heights Well 01, La Verne Heights Well 02, La Verne Heights Well 03, Lincoln Well, Mills Tract Well, Old Baldy Well, Amherst Well, and Walnut Well.  
+**Fraction of Total Annual Water Supply**: 24%  
+**Notes**: Groundwater is sourced from local wells and contributes approximately 24% of the total water supply. The groundwater quality is monitored for various contaminants, and the report indicates that some constituents may exceed the Maximum Contaminant Level (MCL) in certain samples.
+
+**Source 2: Imported Water from MWD**  
+**Source Type**: Surface Water  
+**Where It Comes From**: Purchased from the Three Valleys Municipal Water District (TVMWD), which treats water received from the Metropolitan Water District of Southern California (MWD). MWD sources its water from the Colorado River and the State Water Project. The water is treated at the Miramar Treatment Plant.  
+**Fraction of Total Annual Water Supply**: 76%  
+**Notes**: The imported water constitutes 76% of the total water supply. MWD provides supplemental water to about 300 cities and unincorporated areas in Southern California, and the water is treated to meet safety standards before distribution. 
+
+In summary, the City of La Verne's water supply is primarily sourced from imported water, with a significant portion also coming from local groundwater.
+
+
+**California American Water - Antelope (CA3410031)**  
+**CCR report year: 2022**  
+
+The water system relies on two sources of water: groundwater and purchased surface water.
+
+**Source 1**  
+**Source Type**: Groundwater  
+**Where It Comes From**: Deep wells that pump groundwater from aquifers in the Sacramento Valley.  
+**Fraction of Total Annual Water Supply**: 100%  
+**Notes**: This source is the primary supply for the Antelope water system.
+
+**Source 2**  
+**Source Type**: Surface Water (Purchased)  
+**Where It Comes From**: Surface water purchased from the Sacramento Suburban Water District (SSWD), which originates from Folsom Lake and is treated by the San Juan Water District (SJWD).  
+**Fraction of Total Annual Water Supply**: 0% (not utilized in 2022)  
+**Notes**: While this source may supplement the system in some years, it was not used in 2022. The treatment process includes conventional treatment with filtration and disinfection.
+
+
+**Glen Eden Sun Club (CA3301283)**  
+**CCR report year: 2023**  
+
+The water system relies on groundwater sources and water purchased from a local water district.
+
+**Source Type**: Groundwater  
+**Where It Comes From**: Two active groundwater wells located on the property.  
+**Fraction of Total Annual Water Supply**: Not specified in the report.  
+**Notes**: The system also purchases water from Temescal Valley Water District, but the specific contribution of this source to the total annual water supply is not detailed in the report.  
+
+**Source Type**: Purchased Water  
+**Where It Comes From**: Water purchased from Temescal Valley Water District.  
+**Fraction of Total Annual Water Supply**: Not specified in the report.  
+**Notes**: The report does not provide details on the quantity or specific contribution of this purchased water to the overall supply.  
+
+Overall, the report indicates that the primary source of water for the Glen Eden Sun Club is groundwater, supplemented by purchased water from a neighboring water district.
+
+
+**Sierra Lakes County Water District (CA3110017)**  
+**CCR report year: 2023**  
+
+The water sources identified for the Sierra Lakes County Water District are a reservoir and a well.  
+
+**Source Type**: Surface Water  
+**Where It Comes From**: Lake Serena, the northernmost of the two lakes in Serene Lakes.  
+**Fraction of Total Annual Water Supply**: Not specified in the report.  
+**Notes**: Lake Serena serves as the primary source of drinking water for the district.  
+
+**Source Type**: Groundwater  
+**Where It Comes From**: A well located on Lot A, which serves as a backup source.  
+**Fraction of Total Annual Water Supply**: Not specified in the report.  
+**Notes**: The well is maintained as a backup to the primary surface water source.  
+
+The report does not provide specific fractions of total annual water supply for each source, nor does it detail the quantity of water supplied from each source.
+
+
+**Searles Valley Minerals Operations Inc. (CA3610854)**  
+**CCR report year: 2023**  
+
+The water system relies on groundwater sourced from five wells in the Indian Wells Valley Aquifer.
+
+**Source Type**: Groundwater  
+**Where It Comes From**: The water is sourced from five Searles Valley Minerals (SVM) owned wells, specifically Westend Wells #2 and #4, and Indian Wells #30, #35, and #36.  
+**Fraction of Total Annual Water Supply**: 100%  
+**Notes**: All water delivered by the Searles Domestic Water Company (SDWC) to its customers is imported from these wells. In 2023, SDWC purchased 52 million gallons of water for domestic use, which is fully treated and metered into the distribution system. The water is transported through two 29-mile pipelines into Searles Valley.
+
+
+HAWTHORNE-CITY WATER DEPT. (CA1910047)  
+CCR report year 2023  
+
+The water system relies on one groundwater source and purchased surface water from the Metropolitan Water District of Southern California (MWD).  
+
+**Source Type**: Groundwater  
+**Where It Comes From**: One groundwater well operated by the City of Hawthorne, supplied by West Basin Municipal Water District (West Basin MWD).  
+**Fraction of Total Annual Water Supply**: 1/3  
+**Notes**: The groundwater is part of the system's infrastructure, which includes one well, two MWD connections, six reservoirs, and four booster pump stations.  
+
+**Source Type**: Surface Water  
+**Where It Comes From**: Purchased from the Metropolitan Water District of Southern California (MWD), which sources its water from the Colorado River and the State Water Project in northern California.  
+**Fraction of Total Annual Water Supply**: 2/3  
+**Notes**: The surface water is treated and blended with local groundwater to meet water quality standards. The MWD connections are integral to the water supply for the system.
+
+
+**Rancho California Water District (CA3310038)**  
+**CCR report year: 2023**  
+
+The water system relies on three sources of water: groundwater, imported water, and recycled water.
+
+**Groundwater**:  
+**Source Type**: Groundwater  
+**Where It Comes From**: Groundwater is sourced from one of the largest natural underground water sources in Southern California, specifically from aquifers in the Temecula area. The District also captures surface water runoff in Vail Lake during winter to replenish these aquifers and purchases untreated water from the Metropolitan Water District (MWD) for this purpose.  
+**Fraction of Total Annual Water Supply**: Approximately 35%  
+**Notes**: The groundwater supply is replenished by capturing surface water runoff and is a significant local resource.
+
+**Imported Water**:  
+**Source Type**: Surface Water  
+**Where It Comes From**: Imported water is sourced from the Colorado River Aqueduct and the State Water Project in Northern California. Rancho Water imports treated and disinfected water from these sources via the Metropolitan Water District (MWD).  
+**Fraction of Total Annual Water Supply**: About 60%  
+**Notes**: This source constitutes the majority of the District's water supply, highlighting its reliance on external water systems.
+
+**Recycled Water**:  
+**Source Type**: Recycled Water  
+**Where It Comes From**: Recycled water is highly treated, filtered, and disinfected wastewater used for landscaping, parks, and golf courses within the District’s service area.  
+**Fraction of Total Annual Water Supply**: About 5%  
+**Notes**: This source contributes to water conservation efforts by repurposing wastewater for non-potable uses.
+
+
+**Sereno Del Mar Water Company (CA4900647)**  
+**CCR report year: 2023**  
+
+The water system relies on groundwater sources, specifically surface-influenced wells and side hill springs.
+
+**Source 1**:  
+**Source Type**: Groundwater  
+**Where It Comes From**: Surface-influenced wells 3 and 4 are located next to Scotty Creek. Wells 1, 4B, 5, 6, 7, and 8 are also adjacent to Scotty Creek.  
+**Fraction of Total Annual Water Supply**: Not specified in the report.  
+**Notes**: These wells are influenced by surface water, indicating a connection to nearby surface water sources.
+
+**Source 2**:  
+**Source Type**: Groundwater  
+**Where It Comes From**: Groundwater well 9 is located south of the storage tanks.  
+**Fraction of Total Annual Water Supply**: Not specified in the report.  
+**Notes**: This well is part of the groundwater supply for the system.
+
+**Source 3**:  
+**Source Type**: Groundwater  
+**Where It Comes From**: The Carmet north and south springs are located east of Carmet.  
+**Fraction of Total Annual Water Supply**: Not specified in the report.  
+**Notes**: These springs contribute to the groundwater supply.
+
+Overall, the water system utilizes a combination of surface-influenced wells and springs to provide drinking water, but specific fractions of total annual water supply for each source are not detailed in the report.
+
+
+**Westley CSD (CA5000408)**  
+**CCR report year: 2023**  
+
+The water system relies on one identified source of water: a groundwater well.  
+
+**Source Type**: Groundwater  
+**Where It Comes From**: Well #2, located at Livingston Circle, Westley, CA  
+**Fraction of Total Annual Water Supply**: 1 (100% of total supply)  
+**Notes**: This is the only source of drinking water mentioned in the report, indicating that the entire water supply for the Westley CSD is derived from this groundwater well.
+
+
+**Harvest Moon Mutual Water Co. (CA1500546)**  
+**CCR report year: 2023**  
+
+The water system relies on two groundwater sources for its drinking water supply.
+
+**Source Type**: Groundwater  
+**Where It Comes From**: Well #1 (Active Treated) located at Heath Rd & Blackhawk; Well #2 (Raw) located at Johnson Rd.  
+**Fraction of Total Annual Water Supply**: Not specified in the report.  
+**Notes**: Well #2 has been noted to have an exceedance of 1,2,3-trichloropropane (TCP) since 2018, but Well #1 is below the maximum contaminant level (MCL). The system is pursuing filtration options for Well #2.
+
+**Source Type**: Groundwater  
+**Where It Comes From**: Well #2 (Raw) located at Johnson Rd.  
+**Fraction of Total Annual Water Supply**: Not specified in the report.  
+**Notes**: This well has an exceedance of TCP, and the system is actively monitoring and seeking solutions to address this issue. 
+
+Overall, the report indicates that the water system is primarily dependent on groundwater sources, with specific attention to the quality and safety of the water being provided to customers.
+
+
+**Yucaipa Valley Water District (CA3610055)**  
+**CCR report year: 2023**  
+
+The Yucaipa Valley Water District relies on three primary sources of water: groundwater, imported surface water, and recycled water.
+
+**Groundwater**:  
+**Source Type**: Groundwater  
+**Where It Comes From**: Local groundwater wells.  
+**Fraction of Total Annual Water Supply**: 43.0%  
+**Notes**: Groundwater is a significant source for the district, contributing nearly half of the total water supply.
+
+**Imported Surface Water**:  
+**Source Type**: Surface Water  
+**Where It Comes From**: Imported from external sources (specific suppliers not mentioned in the report).  
+**Fraction of Total Annual Water Supply**: 41.0%  
+**Notes**: This source is crucial for meeting the district's water demands, especially during dry periods.
+
+**Recycled Water**:  
+**Source Type**: Recycled Water  
+**Where It Comes From**: Treated wastewater, primarily used for irrigation in parks, schools, and dual-plumbed homes.  
+**Fraction of Total Annual Water Supply**: 16.0%  
+**Notes**: The district's recycled water program significantly offsets water demand, allowing for sustainable irrigation practices and reducing reliance on potable water for landscaping.
+
+Overall, the Yucaipa Valley Water District utilizes a balanced approach to its water supply, integrating groundwater, imported surface water, and recycled water to ensure a reliable and sustainable drinking water system.
+
+
+**Liberty Utilities - Lynwood (CA1910161)**  
+**CCR report year: 2022**  
+
+The water system relies on two sources of water: imported water from the Metropolitan Water District of Southern California and groundwater from the Central Basin Aquifer.  
+
+**Source 1**  
+**Source Type**: Surface Water  
+**Where It Comes From**: Imported from the Metropolitan Water District of Southern California (MWD), primarily sourced from the Colorado River Aqueduct and the Sacramento-San Joaquin Delta via the State Water Project. The water is treated at the MWD Diemer Filtration Plant in Yorba Linda.  
+**Fraction of Total Annual Water Supply**: 0.17%  
+**Notes**: The Diemer Plant's source water consisted of 0 - 7% State Water Project supply and 93 - 100% Colorado River Water supply in 2022.  
+
+**Source 2**  
+**Source Type**: Groundwater  
+**Where It Comes From**: Groundwater is pumped from the Central Basin Aquifer through wells.  
+**Fraction of Total Annual Water Supply**: 99.83%  
+**Notes**: This source represents the vast majority of the water supply for the Lynwood/Rancho Dominguez system.
+
+
+**City of Chino (CA3610012)**  
+**CCR report year: 2023**  
+
+The City of Chino's drinking water supply is sourced from both groundwater and surface water.
+
+**Source 1: Groundwater (City Wells)**  
+**Source Type**: Groundwater  
+**Where It Comes From**: Local wells operated by the City of Chino.  
+**Fraction of Total Annual Water Supply**: Approximately 75%  
+**Notes**: This source represents a significant portion of the water supply, extracted directly from the local groundwater aquifer.
+
+**Source 2: Groundwater (CDA)**  
+**Source Type**: Groundwater  
+**Where It Comes From**: Groundwater extracted by the Chino Basin Desalter Authority (CDA).  
+**Fraction of Total Annual Water Supply**: Approximately 9%  
+**Notes**: This source supplements the City’s water supply, contributing to the overall groundwater usage.
+
+**Source 3: Surface Water (Imported)**  
+**Source Type**: Surface Water  
+**Where It Comes From**: Imported from Northern California via the State Water Project aqueduct, treated at the Agua de Lejos Water Treatment Plant located in Upland.  
+**Fraction of Total Annual Water Supply**: Approximately 25%  
+**Notes**: This source is crucial for balancing the water supply, especially during periods of low groundwater availability. The treatment plant ensures that the imported water meets safety and quality standards before distribution.
+
+
+**San Dieguito Water District (CA3710021)**  
+**CCR report year: 2023**  
+
+The San Dieguito Water District relies on multiple water sources, including surface water from local reservoirs and imported water.
+
+**Source 1**  
+**Source Type**: Surface Water  
+**Where It Comes From**: San Dieguito Reservoir – Rancho Santa Fe  
+**Fraction of Total Annual Water Supply**: Not specified in the report.  
+**Notes**: This reservoir is part of the local water supply system.
+
+**Source 2**  
+**Source Type**: Surface Water  
+**Where It Comes From**: Lake Hodges – Escondido  
+**Fraction of Total Annual Water Supply**: Not specified in the report.  
+**Notes**: Lake Hodges is a local source that impounds surface water from the Santa Maria and Santa Ysabel Creeks.
+
+**Source 3**  
+**Source Type**: Surface Water  
+**Where It Comes From**: SDCWA Aqueduct - Escondido  
+**Fraction of Total Annual Water Supply**: Not specified in the report.  
+**Notes**: This source is part of the imported water supply, purchased from the San Diego County Water Authority (SDCWA).
+
+**Source 4**  
+**Source Type**: Imported Water  
+**Where It Comes From**: Purchased from the San Diego County Water Authority (SDCWA), which receives water from the Metropolitan Water District of Southern California (MWD).  
+**Fraction of Total Annual Water Supply**: Not specified in the report.  
+**Notes**: The imported water includes supplies from the Colorado River and the State Water Project.
+
+Overall, the report indicates that the San Dieguito Water District utilizes both local and imported surface water sources to meet its water supply needs, but specific fractions of total annual water supply for each source are not provided.
+
+
+DE ANZA MOON VALLEY WATER COMPANY (CA4900871)  
+CCR report year: 2022  
+
+The water sources identified for the De Anza Moon Valley Water Company include groundwater and surface water.
+
+**Source Type**: Groundwater  
+**Where It Comes From**: The groundwater is sourced from local aquifers.  
+**Fraction of Total Annual Water Supply**: 100%  
+**Notes**: The report indicates that the entire water supply for the system is derived from groundwater sources.  
+
+**Source Type**: Surface Water  
+**Where It Comes From**: The surface water is purchased from the local water authority, which sources it from the nearby reservoir.  
+**Fraction of Total Annual Water Supply**: 0%  
+**Notes**: While surface water is mentioned, it does not contribute to the total annual water supply for the system in 2022.  
+
+Overall, the De Anza Moon Valley Water Company relies solely on groundwater for its water supply in 2022.
+
+
+**Lincoln Avenue Water Company (CA1910063)**  
+**CCR report year: 2023**  
+
+The water sources identified for Lincoln Avenue Water Company include groundwater, imported surface water, and local surface water.
+
+**Source 1: Groundwater**  
+**Source Type**: Groundwater  
+**Where It Comes From**: Two wells pumping from the Raymond groundwater basin.  
+**Fraction of Total Annual Water Supply**: 0.77 (77%)  
+**Notes**: Groundwater is treated to remove volatile organic chemicals (VOCs) and perchlorate using a Granular Activated Carbon (GAC) treatment plant.
+
+**Source 2: Imported Surface Water**  
+**Source Type**: Surface Water  
+**Where It Comes From**: Purchased from the Metropolitan Water District of Southern California (MWD), which sources water from the Colorado River and Northern California via the Colorado River Aqueduct and the State Water Project Aqueduct. The water is treated at the Weymouth Filtration Plant in La Verne.  
+**Fraction of Total Annual Water Supply**: 0.11 (11%)  
+**Notes**: This water is a blend of Colorado River water and surface water from Northern California, filtered and disinfected before distribution.
+
+**Source 3: Local Surface Water**  
+**Source Type**: Surface Water  
+**Where It Comes From**: Local surface water sourced from Millard Canyon.  
+**Fraction of Total Annual Water Supply**: 0.12 (12%)  
+**Notes**: The local surface water is treated at the Millard Canyon treatment facility, which meets the same stringent water quality standards as MWD’s treatment plant.
+
+
+**Petaluma, City of (CA4910006)**  
+**CCR report year: 2022**  
+
+The water system relies on two primary sources of water: surface water purchased from the Sonoma County Water Agency and local groundwater.
+
+**Source 1: Surface Water**  
+**Source Type**: Surface Water  
+**Where It Comes From**: Petaluma purchases drinking water from Sonoma County Water Agency, which originates from three reservoirs: Lake Pillsbury, Lake Mendocino, and Lake Sonoma. The water is released into the Russian River, which replenishes the aquifers beneath the river.  
+**Fraction of Total Annual Water Supply**: Not specified in the report.  
+**Notes**: The water supply is collected 80 feet below the sand beds adjacent to the Russian River, naturally filtered, and treated with chlorine and sodium hydroxide.
+
+**Source 2: Groundwater**  
+**Source Type**: Groundwater  
+**Where It Comes From**: The City of Petaluma maintains a supply of local groundwater drawn from wells more than 400 feet deep.  
+**Fraction of Total Annual Water Supply**: Not specified in the report.  
+**Notes**: The groundwater is naturally filtered by the sand and gravel it passes through in the aquifers, and chlorine is added to keep the water pure as it is delivered into the city distribution system.
+
+
+**City of Mountain View (CA4310007)**  
+**CCR report year: 2023**
+
+The City of Mountain View relies on three primary water sources: the San Francisco Public Utilities Commission (SFPUC) Regional Water System, Valley Water, and City wells.
+
+**Source 1: San Francisco Public Utilities Commission (SFPUC) Regional Water System**  
+**Source Type**: Surface Water  
+**Where It Comes From**: Most of the water originates from Sierra Nevada snowmelt flowing into the Tuolumne River and stored in the Hetch Hetchy Reservoir, Yosemite National Park.  
+**Fraction of Total Annual Water Supply**: 0.89 (or 89%)  
+**Notes**: Water from Hetch Hetchy Reservoir is treated with ultraviolet light, chlorine disinfection, pH adjustment, fluoridation, and chloramination before distribution.
+
+**Source 2: Valley Water**  
+**Source Type**: Surface Water  
+**Where It Comes From**: Water is imported mainly from the South Bay Aqueduct, Dyer Reservoir, Lake Del Valle, and San Luis Reservoir, which draw from the Sacramento – San Joaquin Delta watershed. Local source includes Calero Reservoir.  
+**Fraction of Total Annual Water Supply**: 0.09 (or 9%)  
+**Notes**: Mountain View receives water from the Rinconada Water Treatment Plant in Los Gatos, which provides multiple barriers for contaminant removal and pathogen disinfection.
+
+**Source 3: City Wells**  
+**Source Type**: Groundwater  
+**Where It Comes From**: Groundwater is sourced from two aquifers within the Santa Clara groundwater subbasin, specifically from the lower aquifer.  
+**Fraction of Total Annual Water Supply**: 0.02 (or 2%)  
+**Notes**: The City’s wells serve as a backup water supply during emergencies and are regularly tested to ensure safety. Groundwater is blended with SFPUC water for distribution.
+
+
+**USMC Nebo (Barstow) (CA3610701)**  
+**CCR report year: 2023**  
+
+The water system relies on purchased water from Golden State Water Company in Barstow, CA.
+
+**Source Type**: Purchased Water  
+**Where It Comes From**: Supplied by Golden State Water Co., Barstow, CA.  
+**Fraction of Total Annual Water Supply**: 100%  
+**Notes**: The water is treated before being supplied to the Nebo Main Base. The source is not specified as groundwater or surface water, but it is treated water purchased from a regulated water provider.
+
+
+**Coachella VWD (CA3310048)**  
+**CCR report year: 2023**  
+
+The water system relies on groundwater as its primary source of water.
+
+**Source Type**: Groundwater  
+**Where It Comes From**: The groundwater is sourced from wells drilled into the Coachella Valley’s groundwater basin.  
+**Fraction of Total Annual Water Supply**: 1 (100%)  
+**Notes**: All drinking water served by Coachella VWD is derived from groundwater wells, and the system is committed to delivering high-quality drinking water that meets state and federal standards.
+
+
+North Edwards Water District (CA1510052)  
+CCR report year: 2023  
+
+The North Edwards Water District relies on two water sources: groundwater from Well 01 and groundwater from the Antelope Valley-East Kern (AVEK) Water Agency.
+
+**Source Type**: Groundwater  
+**Where It Comes From**: Well 01, located within the North Edwards Water District’s service area.  
+**Fraction of Total Annual Water Supply**: Approximately 11/12 (or 0.917) of the total annual water supply was from Well 01 from January to November 2023.  
+**Notes**: Well 02 was not used during 2023 and is kept on standby for emergency use only.  
+
+**Source Type**: Groundwater  
+**Where It Comes From**: Antelope Valley-East Kern (AVEK) Water Agency, which provided water from six groundwater wells in December 2023.  
+**Fraction of Total Annual Water Supply**: Approximately 1/12 (or 0.083) of the total annual water supply was from AVEK in December 2023.  
+**Notes**: The interconnection with AVEK was finalized in December 2023, marking a change in the primary drinking water source for the district.
+
+
+**Suburban Water Systems-San Jose (CA1910205)**  
+**CCR report year: 2023**  
+
+The water sources identified for Suburban Water Systems-San Jose in 2023 include local groundwater and treated surface water purchased from other water agencies.
+
+**Source 1**  
+**Source Type**: Groundwater  
+**Where It Comes From**: Main San Gabriel Groundwater Basin  
+**Fraction of Total Annual Water Supply**: 0.75 (75%)  
+**Notes**: Suburban utilized local groundwater for 75 percent of its supply in 2023.
+
+**Source 2**  
+**Source Type**: Treated Surface Water  
+**Where It Comes From**: Purchased from Metropolitan Water District (MWD) and Covina Irrigating Company (CIC)  
+**Fraction of Total Annual Water Supply**: 0.25 (25%)  
+**Notes**: The remaining 25 percent of the drinking water supply was sourced from treated surface water provided by MWD and CIC.
+
+
+**Christian Valley Park CSD (CA3110034)**  
+**CCR report year: 2023**  
+
+The water system relies on surface water sourced from the Yuba and Bear River watersheds.
+
+**Source Type**: Surface Water  
+**Where It Comes From**: Sierra snowmelt run-off from the Yuba and Bear River watersheds flows through Lake Spaulding and the PG&E Drum Forebay. Water is conveyed through natural water courses, PG&E and Nevada Irrigation District canals to Rollins Reservoir, then into PG&E’s Bear River Canal, to Placer County Water Agency’s Bowman Canal, and to the Christian Valley water treatment plant.  
+**Fraction of Total Annual Water Supply**: Not specified in the report.  
+**Notes**: The report mentions that PCWA has completed and updated a Sanitary Survey and Source Water Assessment of the Yuba-Bear River watershed in 2017. For more information, customers can contact PCWA.
+
+
+**Azusa Light and Water (CA1910007)**  
+**CCR report year: 2023**  
+
+The water sources identified for Azusa Light and Water include surface water and groundwater.
+
+**Source 1**  
+**Source Type**: Surface Water  
+**Where It Comes From**: Surface water from the San Gabriel Canyon watershed treated at the Joseph F. Hsu Water Filtration Plant.  
+**Fraction of Total Annual Water Supply**: 25%  
+**Notes**: This source is treated at the Joseph F. Hsu Water Filtration Plant, which utilizes advanced membrane filtration technology.
+
+**Source 2**  
+**Source Type**: Groundwater  
+**Where It Comes From**: Groundwater pumped from 8 wells in the Canyon Basin.  
+**Fraction of Total Annual Water Supply**: 75%  
+**Notes**: This includes groundwater from two wells in the Intermediate Basin and one well in the Main San Gabriel Basin.
+
+**Source 3**  
+**Source Type**: Groundwater  
+**Where It Comes From**: Groundwater pumped from 2 wells in the Intermediate Basin.  
+**Fraction of Total Annual Water Supply**: Included in the 75% from groundwater.  
+**Notes**: Specific details about these wells are not provided.
+
+**Source 4**  
+**Source Type**: Groundwater  
+**Where It Comes From**: Groundwater pumped from 1 well in the Main San Gabriel Basin.  
+**Fraction of Total Annual Water Supply**: Included in the 75% from groundwater.  
+**Notes**: Specific details about this well are not provided.
+
+**Source 5**  
+**Source Type**: Raw Water Connection  
+**Where It Comes From**: San Gabriel Valley Municipal Water District.  
+**Fraction of Total Annual Water Supply**: Not specified in the report.  
+**Notes**: This source is part of the overall water supply but does not have a specified fraction.
+
+Overall, Azusa Light and Water utilizes a blend of treated surface water and groundwater to meet the drinking water needs of its customers, ensuring compliance with state and federal water quality standards.
+
+
+**Casa Loma Water Co, Inc. (CA1510004)**  
+**CCR report year: 2023**  
+
+The water system relies on groundwater sources for its drinking water supply.  
+
+**Source Type**: Groundwater  
+**Where It Comes From**: Well 4 located on Lomita Drive and Well 3 (standby) located on Del Mar, Bakersfield, CA 93307.  
+**Fraction of Total Annual Water Supply**: Not specified in the report.  
+**Notes**: A source assessment for Well 3 and Well 4 was conducted in April 2001, indicating vulnerabilities to contaminants from nearby activities such as gas stations, oil and gas operations, and historic waste dumps.  
+
+No surface water or recycled water sources were identified in the report.
+
+
+**Tahoe Swiss Village Utility (CA3110042)**  
+**CCR report year: 2022**  
+
+The water sources identified for Tahoe Swiss Village Utility include groundwater from multiple wells.
+
+**Source Type**: Groundwater  
+**Where It Comes From**: Grand Well, St. Michael Well, and Glenridge Well.  
+**Fraction of Total Annual Water Supply**: Not specified in the report.  
+**Notes**: The report indicates that the Grand Well and St. Michael Well are the primary sources of groundwater, with the Glenridge Well serving as an additional source. The report does not provide specific percentages or fractions of total annual water supply for each source. The Glenridge Well is noted to be used only in emergencies with specific treatment requirements.  
+
+No surface water or recycled water sources are mentioned in the report.
+
+
+**Loma Linda, City of (CA3610013)**  
+**CCR report year: 2022**  
+
+The water system relies on groundwater sources and a supplemental supply from another municipality.
+
+**Source 1**  
+**Source Type**: Groundwater  
+**Where It Comes From**: The City of Loma Linda operates seven wells located in the north area of the city, specifically in the Bunker Hill basin aquifer. The wells include Richardson Wells 3, 4, 5, and 6, and Mountain View Wells 3, 5, and 6. The Bunker Hill basin is replenished by annual rainfall and snowmelt from the San Bernardino Mountains.  
+**Fraction of Total Annual Water Supply**: Not specified in the report.  
+**Notes**: The Bunker Hill basin is a significant natural underground water storage area, and the city has implemented treatment facilities to remove contaminants such as arsenic and volatile organic chemicals from the groundwater.
+
+**Source 2**  
+**Source Type**: Groundwater (supplemental supply)  
+**Where It Comes From**: The City of Loma Linda uses a supplemental supply of water from the City of San Bernardino Municipal Water Department.  
+**Fraction of Total Annual Water Supply**: Not specified in the report.  
+**Notes**: This supplemental supply is utilized as needed to meet the water demands of Loma Linda's customers. 
+
+Overall, the primary source of drinking water for the City of Loma Linda is groundwater from the Bunker Hill basin, supplemented by water purchased from the City of San Bernardino.
+
+
+**Santa Clarita Valley W.A.-Tesoro Div. (CA1910255)**  
+**CCR report year: 2022**  
+
+The water system relies on four primary sources: groundwater, imported water, recycled water, and stored (banked) water.
+
+**Groundwater**:  
+**Source Type**: Groundwater  
+**Where It Comes From**: Local aquifers, specifically the Alluvium and Saugus Formation.  
+**Fraction of Total Annual Water Supply**: 38% (24,000 acre-feet)  
+**Notes**: Groundwater is sourced from precipitation and is considered a sustainable resource.
+
+---
+
+**Imported Water**:  
+**Source Type**: Surface Water  
+**Where It Comes From**: Water imported from the Sierra Nevadas in Northern California via the State Water Project.  
+**Fraction of Total Annual Water Supply**: 17% (11,100 acre-feet)  
+**Notes**: This water travels hundreds of miles before reaching the Santa Clarita Valley.
+
+---
+
+**Recycled Water**:  
+**Source Type**: Recycled Water  
+**Where It Comes From**: Treated wastewater used primarily for outdoor irrigation.  
+**Fraction of Total Annual Water Supply**: 1% (340 acre-feet)  
+**Notes**: SCV Water is expanding its recycled water use to enhance reliability and reduce dependence on imported water.
+
+---
+
+**Stored (Banked) Water**:  
+**Source Type**: Groundwater (banked)  
+**Where It Comes From**: Water stored in Kern County, north of the Santa Clarita Valley.  
+**Fraction of Total Annual Water Supply**: 43% (27,000 acre-feet)  
+**Notes**: This stored water is utilized during droughts or emergencies, providing a critical backup supply for the community.
+
+
+**Los Angeles CWWD 40, R 24,27,33-PEARBLSM (CA1910203)**  
+**CCR report year: 2023**
+
+The water system relies on two sources of water: treated surface water and groundwater.
+
+**Source 1: Treated Surface Water**  
+**Source Type**: Surface Water  
+**Where It Comes From**: The District purchases treated surface water from the Antelope Valley-East Kern Water Agency (AVEK), which sources its water from the Sacramento River/San Joaquin Delta via the State Water Project. The water is treated at the Eastside Water Treatment Plant.  
+**Fraction of Total Annual Water Supply**: 0.14 (14%)  
+**Notes**: The Eastside Water Treatment Plant receives water by gravity from the State Water Project and has a capacity to produce 10 million gallons per day, sufficient to serve approximately 44,000 people.
+
+**Source 2: Groundwater**  
+**Source Type**: Groundwater  
+**Where It Comes From**: Groundwater is extracted from District wells located in the Pearblossom, Littlerock, and Sun Village areas.  
+**Fraction of Total Annual Water Supply**: 0.86 (86%)  
+**Notes**: The groundwater sources are considered vulnerable to various contaminating activities, including known contaminant plumes and agricultural activities. A source water assessment for the groundwater wells was completed in November 2008.
+
+
+**Western MWD - Murrieta Division (CA3310036)**  
+**CCR report year: 2022**  
+
+The water system relies on multiple sources of water, including groundwater and surface water.
+
+**Source 1**  
+**Source Type**: Groundwater  
+**Where It Comes From**: Temecula Valley Basin (through Western Water’s groundwater wells) and Elsinore Valley and San Jacinto Basins (provided by Eastern Municipal Water District).  
+**Fraction of Total Annual Water Supply**: Not specified in the report.  
+**Notes**: This source is part of the diverse water portfolio that helps ensure reliability during dry periods.
+
+**Source 2**  
+**Source Type**: Surface Water  
+**Where It Comes From**: Imported surface water received from the Robert A. Skinner Water Filtration Plant (operated by the Metropolitan Water District) and Hemet Water Filtration Plant and Perris Water Filtration Plant (operated by Eastern Municipal Water District). This water is sourced from the California State Water Project and the Colorado River.  
+**Fraction of Total Annual Water Supply**: Not specified in the report.  
+**Notes**: The surface water sources complement the groundwater sources to provide a reliable water supply.
+
+**Source 3**  
+**Source Type**: Surface Water  
+**Where It Comes From**: Colorado River (as part of the imported water supply).  
+**Fraction of Total Annual Water Supply**: Not specified in the report.  
+**Notes**: This source is included in the overall water supply strategy to enhance reliability.
+
+Overall, the Murrieta service area benefits from a combination of groundwater and surface water sources to meet the water supply needs of its customers.
+
+
+High Valleys Water District (CA3301775)  
+CCR report year: 2023  
+
+The High Valleys Water District relies on a single water source for its drinking water supply, which is purchased from the City of Banning.  
+
+**Source Type**: Groundwater  
+**Where It Comes From**: The water is extracted from twenty-one groundwater wells located throughout the City of Banning, which includes areas over the Beaumont, Banning, Banning Water Canyon, Banning Bench, and Cabazon storage units. Additionally, the City may receive water from three wells within the Beaumont storage unit operated jointly with the Beaumont Cherry Valley Water District.  
+**Fraction of Total Annual Water Supply**: 100%  
+**Notes**: The High Valleys Water District pumps the water purchased from the City of Banning up the mountain through three separate booster stations into three storage tanks and 40 miles of pipe to deliver it to approximately 225 customers. The water is delivered already treated, and the District performs monthly water sampling and system testing to ensure quality.
+
+
+**CAL-AM WATER COMPANY - EAST PASADENA (CA1910020)**  
+**CCR report year: 2023**  
+
+The water system relies entirely on groundwater sources from the Main San Gabriel Basin.
+
+**Source Type**: Groundwater  
+**Where It Comes From**: Main San Gabriel Basin, sourced from groundwater wells.  
+**Fraction of Total Annual Water Supply**: 100%  
+**Notes**: Chlorine addition is the only treatment used for disinfection to maintain water quality in the distribution system. The water is distributed for residential, commercial, and industrial use in parts of the cities of Pasadena, Arcadia, San Gabriel, and Temple City.
+
+
+**PANOCHE WATER DISTRICT (CA1000345)**  
+**CCR report year: 2023**  
+
+The water system relies on a single source of water, which is surface water from the California Aqueduct.
+
+**Source Type**: Surface Water  
+**Where It Comes From**: California Aqueduct, sourced from 52027 W. Althea Ave, Firebaugh, CA 93622.  
+**Fraction of Total Annual Water Supply**: 1 (100% of the total annual water supply is from this source).  
+**Notes**: The report indicates that the water is sourced from the California Aqueduct, but does not provide additional details about the infrastructure used to move or treat the surface water.
+
+
+**Liberty Utilities Apple Valley (CA3600010)**  
+**CCR report year: 2023**  
+
+The water system relies on one source of water, which is a deep well.
+
+**Source Type**: Groundwater  
+**Where It Comes From**: The well draws water from the deep Alto sub-unit of the Mojave groundwater basin, which is recharged from snowmelt from the San Bernardino Mountains and the Mojave River.  
+**Fraction of Total Annual Water Supply**: 1 (100% of total supply)  
+**Notes**: The well is located in the community and is noted for its high-quality aquifer. Some of the water pumped has been age-dated to be close to 10,000 years old, indicating it has been naturally filtered for a long time. The Mojave Water Agency also imports water from the California State Water Project to help recharge the groundwater.
+
+
+**Torrance-City, Water Dept. (CA1910213)**  
+**CCR report year: 2022**  
+
+The water system relies on two primary sources: imported surface water from the Metropolitan Water District of Southern California and groundwater from a local well.
+
+**Source 1**:  
+**Source Type**: Surface Water  
+**Where It Comes From**: Purchased from the Metropolitan Water District of Southern California (MWD), which sources water from the Colorado River via the Colorado River Aqueduct and from Northern California via the California Water Aqueduct.  
+**Fraction of Total Annual Water Supply**: 0.75 (or 75%)  
+**Notes**: MWD performs advanced multistage treatment of the imported water in five regional treatment plants.
+
+**Source 2**:  
+**Source Type**: Groundwater  
+**Where It Comes From**: Sourced from one well pumping from the West Coast groundwater basin and a groundwater desalination project.  
+**Fraction of Total Annual Water Supply**: 0.25 (or 25%)  
+**Notes**: The groundwater source is vulnerable to contamination from historic gas stations and underground storage tanks, as noted in the source water assessment.
+
+
+**MANHATTAN BEACH-CITY, WATER DEPT. (CA1910083)**  
+**CCR report year: 2022**  
+
+The water system relies on both groundwater and surface water sources.
+
+**Source Type**: Groundwater  
+**Where It Comes From**: Groundwater sources within the local area.  
+**Fraction of Total Annual Water Supply**: Not specified in the report.  
+**Notes**: The report indicates that groundwater is one of the sources but does not provide specific details on the quantity or exact locations of the groundwater sources.
+
+**Source Type**: Surface Water  
+**Where It Comes From**: Imported surface water from the Metropolitan Water District (MWD).  
+**Fraction of Total Annual Water Supply**: Not specified in the report.  
+**Notes**: The report mentions that the surface water is treated at MWD's treatment plant, but does not provide specific details on the infrastructure used to move or treat the surface water.
+
+Overall, the report does not provide specific fractions of total annual water supply for each source, nor does it detail the exact quantities or locations of the groundwater sources.
+
+
+Saratoga Heights Mutual Water Company (CA4300545)  
+CCR report year: 2023  
+
+The water system relies on a single source of water, which is purchased from the San Jose Water Company.  
+
+**Source Type**: Purchased Water  
+**Where It Comes From**: San Jose Water Company (specific source details not provided)  
+**Fraction of Total Annual Water Supply**: 100%  
+**Notes**: The report indicates that the Saratoga Heights Mutual Water Company does not have its own water sources and relies entirely on the San Jose Water Company for its water supply. Further details about the specific sources or infrastructure used by the San Jose Water Company can be found in their Consumer Confidence Report available at https://sjwater.com/ccr.
+
+
+**GSWC - WILLOWBROOK (CA1910072)**  
+**CCR report year: 2023**  
+
+The water system relies on groundwater sourced from the Central Groundwater Basin.
+
+**Source Type**: Groundwater  
+**Where It Comes From**: The Central Groundwater Basin, which is bounded by the La Brea Uplift to the north, the Elysian, Repetto, Merced, and Puente hills to the east, the Orange County Groundwater Basin to the southeast, and the Newport-Inglewood Fault Zone to the west.  
+**Fraction of Total Annual Water Supply**: 100%  
+**Notes**: The groundwater sources are considered most vulnerable to various activities, including active and historic mining operations, chemical/petroleum processing/storage, and leaking underground storage tanks. A source water assessment was conducted in 2003 for each groundwater well serving the customers of the Willowbrook System.
+
+
+# Stanford University (CA4310013)
+CCR report year: 2023
+
+The water system relies on the San Francisco Regional Water System (SFRWS) for its drinking water supply, which includes both surface water and groundwater sources.
+
+**Source Type**: Surface Water  
+**Where It Comes From**: The primary source is the Hetch Hetchy Reservoir, which originates from the Tuolumne River watershed in Yosemite National Park. Water is treated at the Sunol Valley Water Treatment Plant (SVWTP) and the Harry Tracy Water Treatment Plant (HTWTP).  
+**Fraction of Total Annual Water Supply**: 100% (all drinking water comes from SFRWS)  
+**Notes**: The Hetch Hetchy water is exempt from federal and state filtration requirements but undergoes disinfection, pH adjustment, fluoridation, and chloramination for safety.
+
+**Source Type**: Groundwater  
+**Where It Comes From**: Emergency backup groundwater wells maintained by Stanford University.  
+**Fraction of Total Annual Water Supply**: Not specified (used only in emergencies)  
+**Notes**: These wells serve as a backup domestic water supply in case of outages from the SFPUC system. The campus community will be notified if these wells are activated. 
+
+Overall, Stanford University’s drinking water supply is primarily sourced from the SFRWS, ensuring a high-quality and well-managed water supply for its community.
+
+
+**La Puente Valley CWD (CA1910060)**  
+**CCR report year: 2023**  
+
+The La Puente Valley County Water District relies on local groundwater and a new recycled water system for its water supply.
+
+**Source Type**: Groundwater  
+**Where It Comes From**: The groundwater supply primarily comes from the District’s Wells 2, 3, and 5 located in the Main San Gabriel Basin. Additionally, a small portion of water is supplied from Industry Public Utilities, which receives water from the San Gabriel Valley Water Company.  
+**Fraction of Total Annual Water Supply**: Not specified in the report.  
+**Notes**: The groundwater undergoes significant treatment to ensure safety and compliance with drinking water standards.
+
+**Source Type**: Recycled Water  
+**Where It Comes From**: The new recycled water system is designed to deliver 18,000,000 gallons of recycled water for irrigation use, which was initiated in December 2023.  
+**Fraction of Total Annual Water Supply**: Represents 55 acre-feet of local recycled water.  
+**Notes**: This system reduces the need for higher-priced imported water and supports conservation efforts. 
+
+The report emphasizes the importance of these sources in providing safe and reliable drinking water to the community.
+
+
+Gooselake Water Company (CA1500584)  
+CCR report year: 2023  
+
+The water system relies on a single source of groundwater for its drinking water supply.  
+
+**Source Type**: Groundwater  
+**Where It Comes From**: Groundwater well located at Stephanie Rd., Bakersfield, CA 93314  
+**Fraction of Total Annual Water Supply**: 1 (100% of total supply)  
+**Notes**: The source is considered most vulnerable to contaminants associated with septic systems and transportation corridors. A Water Source Assessment was conducted in May 2003.
+
+
+**Ontario Municipal Utilities Company (CA3610034)**  
+**CCR report year: 2023**  
+
+The water sources identified for the Ontario Municipal Utilities Company include both surface water and groundwater.
+
+**Source Type**: Surface Water  
+**Where It Comes From**: Purchased from the State Water Project via the Inland Empire Utilities Agency, supplied by the Metropolitan Water District of Southern California, and treated locally by the Water Facilities Authority (WFA).  
+**Fraction of Total Annual Water Supply**: 18%  
+**Notes**: The surface water is treated using conventional water treatment methods.
+
+---
+
+**Source Type**: Groundwater  
+**Where It Comes From**: Local groundwater sourced from City-owned wells, as well as wells from the San Antonio Water Company (SAWCO) and the Chino Basin Desalter Authority (CDA).  
+**Fraction of Total Annual Water Supply**: 52%  
+**Notes**: This source represents the majority of the water supply for the system.
+
+---
+
+**Source Type**: Groundwater  
+**Where It Comes From**: Groundwater sourced from the Chino Basin Desalter Authority (CDA) wells.  
+**Fraction of Total Annual Water Supply**: 30%  
+**Notes**: This source is part of the overall groundwater supply and contributes significantly to the total water supply. 
+
+Overall, the Ontario Municipal Utilities Company relies on a combination of surface water and multiple groundwater sources to meet its water supply needs.
+
+
+**Oakmont Water System (CA4300526)**  
+**CCR report year: 2023**  
+
+The Oakmont Water System relies on surface water sourced from the San Jose Water Company.
+
+**Source Type**: Surface Water  
+**Where It Comes From**: Montevina Water Treatment Plant, purchased from San Jose Water Company (SJWC).  
+**Fraction of Total Annual Water Supply**: 100%  
+**Notes**: The surface water supply is vulnerable to contamination from low-density septic systems, commercial stables, and historic mining practices.
+
+
+**Broadview Terrace Mutual Water Company (CA2000521)**  
+**CCR report year: 2021**  
+
+The water system relies on groundwater sourced from California American Water Company.
+
+**Source Type**: Groundwater  
+**Where It Comes From**: The groundwater is drawn from hard rock wells in the foothills of rural Madera County, specifically from underground fractures.  
+**Fraction of Total Annual Water Supply**: 100%  
+**Notes**: All water for the Broadview Terrace Mutual Water Company is purchased from California American Water Company, and their Consumer Confidence Report serves as the basis for this report. The groundwater sources are considered vulnerable to various potential contaminants, although no contaminants were detected in the assessment.
+
+
+**NORWALK - CITY, WATER DEPT. (CA1910191)**  
+**CCR report year: 2023**  
+
+The water system relies on two sources of water: groundwater and surface water.
+
+**Source 1: Groundwater**  
+**Source Type**: Groundwater  
+**Where It Comes From**: Pumped from local, deep wells.  
+**Fraction of Total Annual Water Supply**: Not specified in the report.  
+**Notes**: The groundwater is sourced from local deep wells, but specific details about the quantity or exact contribution to the total supply are not provided.
+
+**Source 2: Surface Water**  
+**Source Type**: Surface Water  
+**Where It Comes From**: Supplied by the Metropolitan Water District of Southern California (MWD) from the Colorado River and the State Water Project in northern California.  
+**Fraction of Total Annual Water Supply**: Not specified in the report.  
+**Notes**: The surface water is imported from MWD, which sources it from the Colorado River and the State Water Project. Specific details about the infrastructure used to move or treat this water are not provided in the report. 
+
+Overall, the report indicates that both groundwater and surface water are essential components of the water supply for the Norwalk Municipal Water System, but it lacks specific quantitative data regarding the fraction of total annual water supply for each source.

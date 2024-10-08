@@ -1,0 +1,130 @@
+**Water System Information:**
+- **Water System Name:** WESTSIDE HARVESTING
+- **Public Water System ID (PWSID):** Not provided in the report.
+- **Year of the Report:** 2023
+
+**Water Sources Identified:**
+1. **Source Type:** Surface Water
+   - **Where it comes from:** California Aqueduct via Westlands Water District
+   - **Fraction of Total Annual Water Supply:** 1 (100% of the system's total annual water supply)
+
+**Relevant Notes:**
+- The source is noted to be most vulnerable to agricultural drainage and low-density septic systems. 
+- The report indicates that the water quality is tested regularly, and results are provided for various contaminants, but specific details about the quantity of water sourced from the California Aqueduct are not included in the provided text.
+
+
+**Water System Name:** City of Whittier  
+**Public Water System ID (PWSID):** Not explicitly provided in the report  
+**Year of the Report:** 2023  
+
+### Water Sources Identified:
+1. **Source Type:** Groundwater  
+   **Source Description:** The water is sourced from six (6) active deep wells located in the Whittier Narrows area. These wells draw water from the Main San Gabriel groundwater basin and the Central groundwater basin.  
+   **Fraction of Total Annual Water Supply:** 1 (100%)  
+   **Notes:** The report states that the City of Whittier pumped 100 percent of its source water from these wells during 2023. The water is treated and then delivered to the city's eleven reservoirs for public use.  
+
+No other sources of water were identified in the report, confirming that the groundwater from the wells constitutes the entire water supply for the City of Whittier.
+
+
+**Water System Name:** City of Santa Monica  
+**Public Water System ID (PWSID):** Not explicitly provided in the report.  
+**Year of the Report:** 2024  
+
+### Water Sources Identified:
+1. **Local Groundwater**
+   - **Source Type:** Groundwater
+   - **Where it Comes From:** Extracted from local groundwater wells within Santa Monica and West Los Angeles, specifically from three sub-basins: Charnock, Olympic, and Arcadia.
+   - **Fraction of Total Annual Water Supply:** 75% (0.75)
+
+2. **Imported Water**
+   - **Source Type:** Surface Water
+   - **Where it Comes From:** Purchased from the Metropolitan Water District (MWD), which sources water from the Colorado River and the State Water Project. MWD water is treated at their facilities before being blended with local groundwater.
+   - **Fraction of Total Annual Water Supply:** 25% (0.25)
+
+### Relevant Notes:
+- The City of Santa Monica has been working towards reducing reliance on imported water by enhancing local groundwater production and developing sustainable water sources.
+- The Charnock Sub-basin has been a local supply since 1924 and has undergone restoration projects to address contamination issues from compounds like MTBE.
+- The report emphasizes a commitment to sustainable water management and conservation efforts to ensure a reliable water supply for the community.
+
+
+**Water System Name:** City of Commerce Water System  
+**Public Water System ID (PWSID):** Not explicitly provided in the text.  
+**Year of the Report:** 2023  
+
+### Water Sources Identified:
+
+1. **Source Type:** Groundwater  
+   **Where it Comes From:** Local groundwater (specifically from two active wells).  
+   **Annual Supply Fraction:** 0.5 (50% of the total annual water supply).  
+   **Notes:** The groundwater is part of the system's infrastructure, which includes booster pumps and storage tanks.
+
+2. **Source Type:** Purchased Water  
+   **Where it Comes From:** Purchased from the Metropolitan Water District of Southern California (MWD), which sources its water from the Colorado River and the State Water Project in northern California.  
+   **Annual Supply Fraction:** 0.5 (50% of the total annual water supply).  
+   **Notes:** The water system has a connection to MWD through the Central Basin Municipal Water District (Central Basin MWD). 
+
+### Summary:
+The City of Commerce Water System relies on two sources for its water supply, with local groundwater and purchased water from MWD each contributing 50% to the total annual water supply.
+
+
+**Water System Information**
+- **Water System Name:** Littlerock Creek Irrigation District
+- **Public Water System ID (PWSID):** Not provided in the report
+- **Year of Report:** 2023
+
+**Water Sources Identified:**
+
+1. **Source Type:** Groundwater
+   - **Where it comes from:** Antelope Valley Ground Water Basin, Littlerock, CA
+   - **Fraction of Total Annual Water Supply:** Since no specific percentage is provided, we assume this source makes up all of the water system's annual water supply (1.0).
+
+2. **Source Type:** Imported Surface Water
+   - **Where it comes from:** State Water Project (SWP)
+   - **Fraction of Total Annual Water Supply:** Since no specific percentage is provided, we assume this source makes up all of the water system's annual water supply (1.0).
+
+**Notes:**
+- The report indicates that both groundwater and imported surface water are used, but does not provide specific percentages for each source. Therefore, we cannot accurately assign fractions of the total supply to each source beyond stating that they are both utilized.
+- The groundwater source is specifically from the Antelope Valley Ground Water Basin, while the imported surface water is sourced from the State Water Project. 
+
+If further information on the distribution of water sources were provided, more precise fractions could be determined.
+
+
+**Water System Name:** City of Lakewood  
+**Public Water System ID (PWSID):** CA1910239  
+**Year of Report:** 2023  
+
+### Water Sources Identified:
+
+1. **Source Type:** Groundwater  
+   **Where it Comes From:** Local, deep groundwater wells. The City of Lakewood is responsible for providing water services for residents and businesses west of the San Gabriel River.  
+   **Fraction of Total Annual Water Supply:** 100% (since only one source is identified).  
+   **Notes:** The system has 11 deep wells producing groundwater, with over 2.1 billion gallons of water provided annually to over 60,000 residents and commercial customers.  
+
+2. **Source Type:** Recycled Water  
+   **Where it Comes From:** Approximately 6% of the water supply is recycled and used for irrigation at 42 sites.  
+   **Fraction of Total Annual Water Supply:** 0.06 (6% of the total supply).  
+   **Notes:** This recycled water is used for irrigation purposes, indicating a commitment to water conservation and sustainability practices.  
+
+### Summary:
+The City of Lakewood relies primarily on groundwater sourced from local wells, which constitutes 100% of its total annual water supply. Additionally, a smaller portion (6%) of the water supply is derived from recycled water used for irrigation.
+
+
+**Water System Name:** San Marino  
+**Public Water System ID (PWSID):** CA1910139  
+**Year of Report:** 2023  
+
+### Water Sources Identified:
+1. **Groundwater**
+   - **Source Type:** Groundwater
+   - **Where it Comes From:** Main San Gabriel and Raymond Basins
+   - **Fraction of Total Annual Water Supply:** 90/100 (0.90)
+   - **Notes:** This source provides the majority of the water for the San Marino Water System.
+
+2. **Surface Water**
+   - **Source Type:** Surface Water
+   - **Where it Comes From:** Purchased from Metropolitan Water District of Southern California (MWDSC) via the Weymouth Treatment Plant. The raw surface water sources for MWDSC are the Sacramento River Delta and Colorado River.
+   - **Fraction of Total Annual Water Supply:** 10/100 (0.10)
+   - **Notes:** This source supplements the groundwater supply, providing a smaller portion of the total water supply. 
+
+### Summary:
+The San Marino Water System relies primarily on groundwater (90%) sourced from the Main San Gabriel and Raymond Basins, supplemented by surface water (10%) purchased from MWDSC, which sources its water from the Sacramento River Delta and the Colorado River.
